@@ -35,3 +35,11 @@ All Information is for Edge Artist except node_artist_uri and node_artist_name.
 * **valence** - A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 * **tempo** - The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.
 * **time_signature** - An estimated time signature. The time signature (meter) is a notational convention to specify how many beats are in each bar (or measure). The time signature ranges from 3 to 7 indicating time signatures of "3/4", to "7/4".
+
+## EDA
+To understand how the top tracks are distributed across the feature space, we performed a exploratory data analysis (EDA). This included data visualization and Principal Component Analysis to unveil any hidden patterns within each graph, and reduce the number of features required to capture variability when analyzing the track features. 
+
+We then applied clustering algorithms on the reduced feature space to explore any further groupings that might emerge, and find its relationship to the original dimensions.
+
+## NLP
+We incorporated an additional layer to further explore this network and performed sentiment analysis in the song’s lyrics to explore hidden patterns. Song's lyrics were obtained by using the **lyricsgenius** package, a Python client for the [Genius.com API](https://genius.com/). 
