@@ -1,0 +1,541 @@
+,node_artist,edge_artist,followers,genres,popularity,_type,edge_uri
+20,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,12 Stones,388227,alternative metal; christian alternative rock; christian hard rock; christian rock; nu metal; post-grunge; rap rock,54,artist,spotify:artist:0DrXhci3WAyo0WJv1RBOG6
+21,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,10 Years,590558,alternative metal; christian rock; nu metal; post-grunge; rap rock,57,artist,spotify:artist:0REMf7H0VP6DwfZ9MbuWph
+22,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Default,228033,alternative metal; canadian rock; nu metal; pop rock; post-grunge,49,artist,spotify:artist:4nCzT3o7lMgCWBcmdwCMsT
+23,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,TRUSTcompany,116798,alabama metal; alternative metal; christian rock; nu metal; post-grunge; rap rock,50,artist,spotify:artist:21ALJSG7U07dShegeJQ2xA
+24,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Trapt,991505,alternative metal; nu metal; pop rock; post-grunge; rap rock,58,artist,spotify:artist:1UdQqCUR7RwB9YYJONwbdM
+25,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Smile Empty Soul,294415,alternative metal; christian rock; nu metal; post-grunge; rap rock,48,artist,spotify:artist:1KEUVZo7CMTSJoM8doulOT
+26,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,The Exies,70331,alternative metal; christian rock; nu metal; post-grunge; rap rock,47,artist,spotify:artist:5V5NZ8y72BgxpB6rN4XxtI
+27,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Submersed,62766,alternative metal; christian rock; hard alternative; nu metal; post-grunge,44,artist,spotify:artist:0539gq2LM2VDs01rp8gnGz
+28,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Seether,2955190,alternative metal; modern rock; nu metal; post-grunge; south african rock,69,artist,spotify:artist:6B5c4sch27tWHAGdarpPaW
+29,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Earshot,111337,alternative metal; hard alternative; industrial metal; nu metal; rap rock,45,artist,spotify:artist:6eeYhqOX2cpsiHY6gVuvPA
+30,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Cold,390344,alternative metal; industrial metal; nu metal; post-grunge; rap rock,53,artist,spotify:artist:0Gw3a3BkWLwsMLFbOBmo6Q
+31,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Sick Puppies,816629,alternative metal; christian rock; nu metal; post-grunge; rap rock,60,artist,spotify:artist:7qAcXJgt1PWnxwUgxMdyuk
+32,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Shinedown,3570903,alternative metal; nu metal; post-grunge,71,artist,spotify:artist:70BYFdaZbEKbeauJ670ysI
+33,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Hoobastank,2182317,alternative metal; funk metal; nu metal; pop rock; post-grunge; rap rock,66,artist,spotify:artist:2MqhkhX4npxDZ62ObR5ELO
+34,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Fuel,716274,alternative metal; alternative rock; neo mellow; nu metal; pop rock; post-grunge; rap rock; rock,57,artist,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+35,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Evans Blue,245210,alternative metal; canadian rock; christian rock; nu metal; post-grunge; rap rock,49,artist,spotify:artist:6pDRa5fS3myWSP0fpIUcNl
+36,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Finger Eleven,621706,alternative metal; canadian rock; funk metal; nu metal; post-grunge; rap rock,61,artist,spotify:artist:0niJkG4tKkne3zwr7I8n9n
+37,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Saving Abel,767087,alternative metal; nu metal; pop rock; post-grunge,57,artist,spotify:artist:2AVVj8ezW2mJ0v8u7XydiF
+38,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Rev Theory,245665,alternative metal; christian rock; nu metal; post-grunge; rap rock; rebel blues,52,artist,spotify:artist:10n5DVRlZbjbZ5ffpwpn6l
+39,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB,Hinder,1640042,alternative metal; nu metal; pop rock; post-grunge,61,artist,spotify:artist:6BMhCQJYHxxKAeqYS1p5rY
+40,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,12 Stones,388227,alternative metal; christian alternative rock; christian hard rock; christian rock; nu metal; post-grunge; rap rock,54,artist,spotify:artist:0DrXhci3WAyo0WJv1RBOG6
+41,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Crossfade,778968,alternative metal; nu metal; post-grunge; rap rock,57,artist,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB
+42,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Seether,2955190,alternative metal; modern rock; nu metal; post-grunge; south african rock,69,artist,spotify:artist:6B5c4sch27tWHAGdarpPaW
+43,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Sick Puppies,816629,alternative metal; christian rock; nu metal; post-grunge; rap rock,60,artist,spotify:artist:7qAcXJgt1PWnxwUgxMdyuk
+44,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Trapt,991505,alternative metal; nu metal; pop rock; post-grunge; rap rock,58,artist,spotify:artist:1UdQqCUR7RwB9YYJONwbdM
+45,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,3 Doors Down,3818898,alternative metal; nu metal; pop rock; post-grunge,70,artist,spotify:artist:2RTUTCvo6onsAnheUk3aL9
+46,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,TRUSTcompany,116798,alabama metal; alternative metal; christian rock; nu metal; post-grunge; rap rock,50,artist,spotify:artist:21ALJSG7U07dShegeJQ2xA
+47,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Fuel,716274,alternative metal; alternative rock; neo mellow; nu metal; pop rock; post-grunge; rap rock; rock,57,artist,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+48,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Default,228033,alternative metal; canadian rock; nu metal; pop rock; post-grunge,49,artist,spotify:artist:4nCzT3o7lMgCWBcmdwCMsT
+49,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,10 Years,590558,alternative metal; christian rock; nu metal; post-grunge; rap rock,57,artist,spotify:artist:0REMf7H0VP6DwfZ9MbuWph
+50,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Dead By Sunrise,120511,alternative metal; electronic rock; nu metal; post-grunge; rap rock,47,artist,spotify:artist:502ZZTWlqgS1Ht62ewubEJ
+51,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,The Exies,70331,alternative metal; christian rock; nu metal; post-grunge; rap rock,47,artist,spotify:artist:5V5NZ8y72BgxpB6rN4XxtI
+52,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Shinedown,3570903,alternative metal; nu metal; post-grunge,71,artist,spotify:artist:70BYFdaZbEKbeauJ670ysI
+53,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Finger Eleven,621706,alternative metal; canadian rock; funk metal; nu metal; post-grunge; rap rock,61,artist,spotify:artist:0niJkG4tKkne3zwr7I8n9n
+54,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Smile Empty Soul,294415,alternative metal; christian rock; nu metal; post-grunge; rap rock,48,artist,spotify:artist:1KEUVZo7CMTSJoM8doulOT
+55,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Breaking Benjamin,4072979,alternative metal; nu metal; post-grunge,71,artist,spotify:artist:5BtHciL0e0zOP7prIHn3pP
+56,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Puddle Of Mudd,1748969,alternative metal; alternative rock; nu metal; post-grunge; rap rock; rock,63,artist,spotify:artist:3dXaa6jwM7B52GZpaJEIr5
+57,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Chevelle,1592093,alternative metal; christian rock; nu metal; post-grunge; rap rock; rock,63,artist,spotify:artist:56dO9zeHKuU5Gvfc2kxHNw
+58,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Papa Roach,4465713,alternative metal; nu metal; rap metal; rap rock,71,artist,spotify:artist:4RddZ3iHvSpGV4dvATac9X
+59,spotify:artist:2MqhkhX4npxDZ62ObR5ELO,Cold,390344,alternative metal; industrial metal; nu metal; post-grunge; rap rock,53,artist,spotify:artist:0Gw3a3BkWLwsMLFbOBmo6Q
+60,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,12 Stones,388227,alternative metal; christian alternative rock; christian hard rock; christian rock; nu metal; post-grunge; rap rock,54,artist,spotify:artist:0DrXhci3WAyo0WJv1RBOG6
+61,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Crossfade,778968,alternative metal; nu metal; post-grunge; rap rock,57,artist,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB
+62,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,TRUSTcompany,116798,alabama metal; alternative metal; christian rock; nu metal; post-grunge; rap rock,50,artist,spotify:artist:21ALJSG7U07dShegeJQ2xA
+63,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,10 Years,590558,alternative metal; christian rock; nu metal; post-grunge; rap rock,57,artist,spotify:artist:0REMf7H0VP6DwfZ9MbuWph
+64,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Default,228033,alternative metal; canadian rock; nu metal; pop rock; post-grunge,49,artist,spotify:artist:4nCzT3o7lMgCWBcmdwCMsT
+65,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Smile Empty Soul,294415,alternative metal; christian rock; nu metal; post-grunge; rap rock,48,artist,spotify:artist:1KEUVZo7CMTSJoM8doulOT
+66,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,The Exies,70331,alternative metal; christian rock; nu metal; post-grunge; rap rock,47,artist,spotify:artist:5V5NZ8y72BgxpB6rN4XxtI
+67,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Submersed,62766,alternative metal; christian rock; hard alternative; nu metal; post-grunge,44,artist,spotify:artist:0539gq2LM2VDs01rp8gnGz
+68,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Sick Puppies,816629,alternative metal; christian rock; nu metal; post-grunge; rap rock,60,artist,spotify:artist:7qAcXJgt1PWnxwUgxMdyuk
+69,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Earshot,111337,alternative metal; hard alternative; industrial metal; nu metal; rap rock,45,artist,spotify:artist:6eeYhqOX2cpsiHY6gVuvPA
+70,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Cold,390344,alternative metal; industrial metal; nu metal; post-grunge; rap rock,53,artist,spotify:artist:0Gw3a3BkWLwsMLFbOBmo6Q
+71,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Finger Eleven,621706,alternative metal; canadian rock; funk metal; nu metal; post-grunge; rap rock,61,artist,spotify:artist:0niJkG4tKkne3zwr7I8n9n
+72,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Fuel,716274,alternative metal; alternative rock; neo mellow; nu metal; pop rock; post-grunge; rap rock; rock,57,artist,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+73,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Rev Theory,245665,alternative metal; christian rock; nu metal; post-grunge; rap rock; rebel blues,52,artist,spotify:artist:10n5DVRlZbjbZ5ffpwpn6l
+74,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Hoobastank,2182317,alternative metal; funk metal; nu metal; pop rock; post-grunge; rap rock,66,artist,spotify:artist:2MqhkhX4npxDZ62ObR5ELO
+75,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Saving Abel,767087,alternative metal; nu metal; pop rock; post-grunge,57,artist,spotify:artist:2AVVj8ezW2mJ0v8u7XydiF
+76,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Shinedown,3570903,alternative metal; nu metal; post-grunge,71,artist,spotify:artist:70BYFdaZbEKbeauJ670ysI
+77,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Evans Blue,245210,alternative metal; canadian rock; christian rock; nu metal; post-grunge; rap rock,49,artist,spotify:artist:6pDRa5fS3myWSP0fpIUcNl
+78,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Ra,112328,alternative metal; hard alternative; industrial metal; nu metal; post-grunge; rap rock,46,artist,spotify:artist:4qrdhnXBOzRt9OSmL29IFO
+79,spotify:artist:1UdQqCUR7RwB9YYJONwbdM,Art Of Dying,173912,alternative metal; christian rock; gymcore; hard alternative; nu metal; post-grunge; post-screamo; rap rock,47,artist,spotify:artist:28DlNBW2UlEVVgTuCcYtTe
+260,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+261,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+262,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Dishwalla,256873,neo mellow; pop rock; post-grunge,48,artist,spotify:artist:6F3NW2aC9Sni1FH7QPSLvw
+263,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Eve 6,382257,alternative metal; alternative rock; nu metal; pop rock; post-grunge,54,artist,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8
+264,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Seven Mary Three,269503,alternative metal; alternative rock; pop rock; post-grunge,51,artist,spotify:artist:2zsLaQhHFdQPdFXqG1nRmM
+265,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,The Verve Pipe,308433,pop rock; post-grunge,47,artist,spotify:artist:242iqFnwNhlidVBMI9GYKp
+266,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+267,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+268,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+269,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+270,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Soul Asylum,527987,alternative rock; grunge; permanent wave; pop rock; post-grunge; rock,56,artist,spotify:artist:02da1vDJ2hWqfK7aJL6SJm
+271,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+272,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+273,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Third Eye Blind,1367781,alternative rock; neo mellow; pop rock; post-grunge; rock,64,artist,spotify:artist:6TcnmlCSxihzWOQJ8k0rNS
+274,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Bush,1606081,alternative metal; alternative rock; grunge; modern rock; nu metal; pop rock; post-grunge; rap rock; rock,63,artist,spotify:artist:78SHxLdtysAXgywQ4vE0Oa
+275,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Our Lady Peace,332168,alternative metal; alternative rock; canadian rock; grunge; nu metal; pop rock; post-grunge; rock,53,artist,spotify:artist:1lqW59DUEKqvcHc8mVWBtH
+276,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Live,684369,alternative metal; alternative rock; pop rock; post-grunge; rock,61,artist,spotify:artist:6eoJpTIlcuxJNjV5fDzDJH
+277,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Sponge,104324,alternative metal; alternative rock; grunge; pop rock; post-grunge,45,artist,spotify:artist:2JXDwIo5HsiwTcTPQytrZ8
+278,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+279,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6,Counting Crows,1549577,alternative rock; neo mellow; pop rock; rock,69,artist,spotify:artist:0vEsuISMWAKNctLlUAhSZC
+280,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+281,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Dishwalla,256873,neo mellow; pop rock; post-grunge,48,artist,spotify:artist:6F3NW2aC9Sni1FH7QPSLvw
+282,spotify:artist:6qXwLwTLdA44HYsA26vaNU,The Verve Pipe,308433,pop rock; post-grunge,47,artist,spotify:artist:242iqFnwNhlidVBMI9GYKp
+283,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+284,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Sister Hazel,302049,neo mellow; pop rock,52,artist,spotify:artist:7m60UAnbgFFNuJbmS6OxTk
+285,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Eve 6,382257,alternative metal; alternative rock; nu metal; pop rock; post-grunge,54,artist,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8
+286,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+287,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Seven Mary Three,269503,alternative metal; alternative rock; pop rock; post-grunge,51,artist,spotify:artist:2zsLaQhHFdQPdFXqG1nRmM
+288,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Stroke 9,46869,pop rock,39,artist,spotify:artist:6Nwc4urCR2Qdx302j2XIlv
+289,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+290,spotify:artist:6qXwLwTLdA44HYsA26vaNU,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+291,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+292,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+293,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+294,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+295,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+296,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Oleander,48960,pop rock; post-grunge; sacramento indie,42,artist,spotify:artist:7038Bglq6YmpBu6wPvQJiz
+297,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Hootie & The Blowfish,958892,mellow gold; neo mellow; pop rock; singer-songwriter,60,artist,spotify:artist:08ct2eZF5lUPdJpHwNKWof
+298,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Sponge,104324,alternative metal; alternative rock; grunge; pop rock; post-grunge,45,artist,spotify:artist:2JXDwIo5HsiwTcTPQytrZ8
+299,spotify:artist:6qXwLwTLdA44HYsA26vaNU,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+300,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+301,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+302,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+303,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+304,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Hootie & The Blowfish,958892,mellow gold; neo mellow; pop rock; singer-songwriter,60,artist,spotify:artist:08ct2eZF5lUPdJpHwNKWof
+305,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+306,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+307,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+308,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Sister Hazel,302049,neo mellow; pop rock,52,artist,spotify:artist:7m60UAnbgFFNuJbmS6OxTk
+309,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+310,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Soul Asylum,527987,alternative rock; grunge; permanent wave; pop rock; post-grunge; rock,56,artist,spotify:artist:02da1vDJ2hWqfK7aJL6SJm
+311,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Sugar Ray,842166,alternative metal; alternative rock; funk metal; neo mellow; pop rock; rock,59,artist,spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+312,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Third Eye Blind,1367781,alternative rock; neo mellow; pop rock; post-grunge; rock,64,artist,spotify:artist:6TcnmlCSxihzWOQJ8k0rNS
+313,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+314,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Counting Crows,1549577,alternative rock; neo mellow; pop rock; rock,69,artist,spotify:artist:0vEsuISMWAKNctLlUAhSZC
+315,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+316,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Dishwalla,256873,neo mellow; pop rock; post-grunge,48,artist,spotify:artist:6F3NW2aC9Sni1FH7QPSLvw
+317,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Matchbox Twenty,2202608,neo mellow; pop rock; post-grunge,66,artist,spotify:artist:3Ngh2zDBRPEriyxQDAMKd1
+318,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Eve 6,382257,alternative metal; alternative rock; nu metal; pop rock; post-grunge,54,artist,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8
+319,spotify:artist:6kXp61QMZFPcKMcRPqoiVj,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+400,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+401,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Counting Crows,1549577,alternative rock; neo mellow; pop rock; rock,69,artist,spotify:artist:0vEsuISMWAKNctLlUAhSZC
+402,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+403,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+404,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+405,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+406,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+407,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+408,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+409,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+410,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Hootie & The Blowfish,958892,mellow gold; neo mellow; pop rock; singer-songwriter,60,artist,spotify:artist:08ct2eZF5lUPdJpHwNKWof
+411,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,The Verve Pipe,308433,pop rock; post-grunge,47,artist,spotify:artist:242iqFnwNhlidVBMI9GYKp
+412,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+413,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Sister Hazel,302049,neo mellow; pop rock,52,artist,spotify:artist:7m60UAnbgFFNuJbmS6OxTk
+414,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+415,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Dishwalla,256873,neo mellow; pop rock; post-grunge,48,artist,spotify:artist:6F3NW2aC9Sni1FH7QPSLvw
+416,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Soul Asylum,527987,alternative rock; grunge; permanent wave; pop rock; post-grunge; rock,56,artist,spotify:artist:02da1vDJ2hWqfK7aJL6SJm
+417,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Blues Traveler,571939,alternative rock; blues rock; classic rock; jam band; mellow gold; pop rock; rock,57,artist,spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+418,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Eve 6,382257,alternative metal; alternative rock; nu metal; pop rock; post-grunge,54,artist,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8
+419,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB,Sugar Ray,842166,alternative metal; alternative rock; funk metal; neo mellow; pop rock; rock,59,artist,spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+580,spotify:artist:07jc1IMGtecDZzOL9cP50t,Candlebox,754045,alternative metal; alternative rock; grunge; nu metal; pop rock; post-grunge; rock,54,artist,spotify:artist:3R6c2tWDBeYB1GncjLMn9n
+581,spotify:artist:07jc1IMGtecDZzOL9cP50t,Mad Season,504943,alternative metal; alternative rock; blues rock; grunge; nu metal; rock; supergroup,51,artist,spotify:artist:0T7JQxpy1Li93vLNirbv0Z
+582,spotify:artist:07jc1IMGtecDZzOL9cP50t,Seven Mary Three,269503,alternative metal; alternative rock; pop rock; post-grunge,51,artist,spotify:artist:2zsLaQhHFdQPdFXqG1nRmM
+583,spotify:artist:07jc1IMGtecDZzOL9cP50t,Local H,177848,alternative metal; alternative rock; grunge; modern rock; nu metal; pop rock; post-grunge; rock,53,artist,spotify:artist:415JrPfN7ukaTu8JV8BLE8
+584,spotify:artist:07jc1IMGtecDZzOL9cP50t,Mother Love Bone,299850,alternative metal; alternative rock; funk metal; grunge; rock,46,artist,spotify:artist:3XR64HmFo4OvexUUNW7TP0
+585,spotify:artist:07jc1IMGtecDZzOL9cP50t,Temple Of The Dog,1071041,alternative metal; alternative rock; grunge; hard rock; nu metal; pop rock; rock; supergroup,57,artist,spotify:artist:0iHb0mCbqZTYeb4y9Pirrd
+586,spotify:artist:07jc1IMGtecDZzOL9cP50t,Bush,1606081,alternative metal; alternative rock; grunge; modern rock; nu metal; pop rock; post-grunge; rap rock; rock,63,artist,spotify:artist:78SHxLdtysAXgywQ4vE0Oa
+587,spotify:artist:07jc1IMGtecDZzOL9cP50t,Jerry Cantrell,248453,alternative metal; alternative rock; grunge; post-grunge; rock,45,artist,spotify:artist:5HUFo8AH9ZILmlyKFfEMNP
+588,spotify:artist:07jc1IMGtecDZzOL9cP50t,Blind Melon,1035493,alternative metal; alternative rock; blues rock; grunge; pop rock; rock,62,artist,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd
+589,spotify:artist:07jc1IMGtecDZzOL9cP50t,Sponge,104324,alternative metal; alternative rock; grunge; pop rock; post-grunge,45,artist,spotify:artist:2JXDwIo5HsiwTcTPQytrZ8
+590,spotify:artist:07jc1IMGtecDZzOL9cP50t,Screaming Trees,276941,alternative metal; alternative rock; grunge; rock,47,artist,spotify:artist:3Ukr3Ufjg8ygRJv7Ww887f
+591,spotify:artist:07jc1IMGtecDZzOL9cP50t,Stone Temple Pilots,2997027,alternative metal; alternative rock; grunge; hard rock; nu metal; pop rock; post-grunge; rock,67,artist,spotify:artist:2UazAtjfzqBF0Nho2awK4z
+592,spotify:artist:07jc1IMGtecDZzOL9cP50t,Filter,453524,alternative metal; alternative rock; grunge; industrial metal; industrial rock; nu metal; pop rock; post-grunge; rap rock; rock,57,artist,spotify:artist:01WjpKiWVNurV5hjIadB8C
+593,spotify:artist:07jc1IMGtecDZzOL9cP50t,Jane's Addiction,1222862,alternative metal; alternative rock; blues rock; funk metal; funk rock; grunge; hard rock; nu metal; permanent wave; pop rock; rap rock; rock,58,artist,spotify:artist:02NfyD6AlLA12crYzw5YcR
+594,spotify:artist:07jc1IMGtecDZzOL9cP50t,Toadies,247564,alternative metal; alternative rock; grunge; pop rock; post-grunge; rock,53,artist,spotify:artist:2QMMktUMtwMSwUZATX1cRO
+595,spotify:artist:07jc1IMGtecDZzOL9cP50t,Fuel,716274,alternative metal; alternative rock; neo mellow; nu metal; pop rock; post-grunge; rap rock; rock,57,artist,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+596,spotify:artist:07jc1IMGtecDZzOL9cP50t,Silverchair,1074303,alternative metal; alternative rock; australian alternative rock; australian psych; grunge; nu metal; pop rock; post-grunge; rock,60,artist,spotify:artist:4iudEcmuPlYNdbP3e1bdn1
+597,spotify:artist:07jc1IMGtecDZzOL9cP50t,Soundgarden,3704411,alternative metal; alternative rock; grunge; hard rock; nu metal; rock,67,artist,spotify:artist:5xUf6j4upBrXZPg6AI4MRK
+598,spotify:artist:07jc1IMGtecDZzOL9cP50t,Soul Asylum,527987,alternative rock; grunge; permanent wave; pop rock; post-grunge; rock,56,artist,spotify:artist:02da1vDJ2hWqfK7aJL6SJm
+599,spotify:artist:07jc1IMGtecDZzOL9cP50t,Alice In Chains,4159641,alternative metal; alternative rock; grunge; hard rock; nu metal; rock,71,artist,spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+820,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Counting Crows,1549577,alternative rock; neo mellow; pop rock; rock,69,artist,spotify:artist:0vEsuISMWAKNctLlUAhSZC
+821,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+822,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+823,spotify:artist:08ct2eZF5lUPdJpHwNKWof,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+824,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+825,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Sister Hazel,302049,neo mellow; pop rock,52,artist,spotify:artist:7m60UAnbgFFNuJbmS6OxTk
+826,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Matchbox Twenty,2202608,neo mellow; pop rock; post-grunge,66,artist,spotify:artist:3Ngh2zDBRPEriyxQDAMKd1
+827,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+828,spotify:artist:08ct2eZF5lUPdJpHwNKWof,The Goo Goo Dolls,2341486,neo mellow; permanent wave; pop rock,71,artist,spotify:artist:2sil8z5kiy4r76CRTXxBCA
+829,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+830,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+831,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+832,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+833,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+834,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Sugar Ray,842166,alternative metal; alternative rock; funk metal; neo mellow; pop rock; rock,59,artist,spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+835,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+836,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+837,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Blues Traveler,571939,alternative rock; blues rock; classic rock; jam band; mellow gold; pop rock; rock,57,artist,spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+838,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Third Eye Blind,1367781,alternative rock; neo mellow; pop rock; post-grunge; rock,64,artist,spotify:artist:6TcnmlCSxihzWOQJ8k0rNS
+839,spotify:artist:08ct2eZF5lUPdJpHwNKWof,Barenaked Ladies,684267,canadian pop; canadian rock; comic; neo mellow; pop rock,60,artist,spotify:artist:0dEvJpkqhrcn64d3oI8v79
+900,spotify:artist:6B5c4sch27tWHAGdarpPaW,Crossfade,778968,alternative metal; nu metal; post-grunge; rap rock,57,artist,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB
+901,spotify:artist:6B5c4sch27tWHAGdarpPaW,Shinedown,3570903,alternative metal; nu metal; post-grunge,71,artist,spotify:artist:70BYFdaZbEKbeauJ670ysI
+902,spotify:artist:6B5c4sch27tWHAGdarpPaW,12 Stones,388227,alternative metal; christian alternative rock; christian hard rock; christian rock; nu metal; post-grunge; rap rock,54,artist,spotify:artist:0DrXhci3WAyo0WJv1RBOG6
+903,spotify:artist:6B5c4sch27tWHAGdarpPaW,10 Years,590558,alternative metal; christian rock; nu metal; post-grunge; rap rock,57,artist,spotify:artist:0REMf7H0VP6DwfZ9MbuWph
+904,spotify:artist:6B5c4sch27tWHAGdarpPaW,Hoobastank,2182317,alternative metal; funk metal; nu metal; pop rock; post-grunge; rap rock,66,artist,spotify:artist:2MqhkhX4npxDZ62ObR5ELO
+905,spotify:artist:6B5c4sch27tWHAGdarpPaW,Staind,2162840,alternative metal; nu metal; pop rock; post-grunge; rap rock; rock,64,artist,spotify:artist:5KDIH2gF0VpelTqyQS7udb
+906,spotify:artist:6B5c4sch27tWHAGdarpPaW,Chevelle,1592093,alternative metal; christian rock; nu metal; post-grunge; rap rock; rock,63,artist,spotify:artist:56dO9zeHKuU5Gvfc2kxHNw
+907,spotify:artist:6B5c4sch27tWHAGdarpPaW,Puddle Of Mudd,1748969,alternative metal; alternative rock; nu metal; post-grunge; rap rock; rock,63,artist,spotify:artist:3dXaa6jwM7B52GZpaJEIr5
+908,spotify:artist:6B5c4sch27tWHAGdarpPaW,Breaking Benjamin,4072979,alternative metal; nu metal; post-grunge,71,artist,spotify:artist:5BtHciL0e0zOP7prIHn3pP
+909,spotify:artist:6B5c4sch27tWHAGdarpPaW,Sick Puppies,816629,alternative metal; christian rock; nu metal; post-grunge; rap rock,60,artist,spotify:artist:7qAcXJgt1PWnxwUgxMdyuk
+910,spotify:artist:6B5c4sch27tWHAGdarpPaW,Default,228033,alternative metal; canadian rock; nu metal; pop rock; post-grunge,49,artist,spotify:artist:4nCzT3o7lMgCWBcmdwCMsT
+911,spotify:artist:6B5c4sch27tWHAGdarpPaW,Theory of a Deadman,1842571,alternative metal; canadian metal; canadian rock; nu metal; post-grunge; rap rock,64,artist,spotify:artist:74eX4C98E4FCrAMl39qRsJ
+912,spotify:artist:6B5c4sch27tWHAGdarpPaW,3 Doors Down,3818898,alternative metal; nu metal; pop rock; post-grunge,70,artist,spotify:artist:2RTUTCvo6onsAnheUk3aL9
+913,spotify:artist:6B5c4sch27tWHAGdarpPaW,Trapt,991505,alternative metal; nu metal; pop rock; post-grunge; rap rock,58,artist,spotify:artist:1UdQqCUR7RwB9YYJONwbdM
+914,spotify:artist:6B5c4sch27tWHAGdarpPaW,Hinder,1640042,alternative metal; nu metal; pop rock; post-grunge,61,artist,spotify:artist:6BMhCQJYHxxKAeqYS1p5rY
+915,spotify:artist:6B5c4sch27tWHAGdarpPaW,Finger Eleven,621706,alternative metal; canadian rock; funk metal; nu metal; post-grunge; rap rock,61,artist,spotify:artist:0niJkG4tKkne3zwr7I8n9n
+916,spotify:artist:6B5c4sch27tWHAGdarpPaW,Smile Empty Soul,294415,alternative metal; christian rock; nu metal; post-grunge; rap rock,48,artist,spotify:artist:1KEUVZo7CMTSJoM8doulOT
+917,spotify:artist:6B5c4sch27tWHAGdarpPaW,Fuel,716274,alternative metal; alternative rock; neo mellow; nu metal; pop rock; post-grunge; rap rock; rock,57,artist,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+918,spotify:artist:6B5c4sch27tWHAGdarpPaW,Cold,390344,alternative metal; industrial metal; nu metal; post-grunge; rap rock,53,artist,spotify:artist:0Gw3a3BkWLwsMLFbOBmo6Q
+919,spotify:artist:6B5c4sch27tWHAGdarpPaW,Three Days Grace,5231714,alternative metal; canadian metal; canadian rock; nu metal; post-grunge,74,artist,spotify:artist:2xiIXseIJcq3nG7C8fHeBj
+980,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Days Of The New,340398,alternative metal; alternative rock; grunge; nu metal; pop rock; post-grunge; rock,53,artist,spotify:artist:07jc1IMGtecDZzOL9cP50t
+981,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Seven Mary Three,269503,alternative metal; alternative rock; pop rock; post-grunge,51,artist,spotify:artist:2zsLaQhHFdQPdFXqG1nRmM
+982,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Local H,177848,alternative metal; alternative rock; grunge; modern rock; nu metal; pop rock; post-grunge; rock,53,artist,spotify:artist:415JrPfN7ukaTu8JV8BLE8
+983,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Candlebox,754045,alternative metal; alternative rock; grunge; nu metal; pop rock; post-grunge; rock,54,artist,spotify:artist:3R6c2tWDBeYB1GncjLMn9n
+984,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Stone Temple Pilots,2997027,alternative metal; alternative rock; grunge; hard rock; nu metal; pop rock; post-grunge; rock,67,artist,spotify:artist:2UazAtjfzqBF0Nho2awK4z
+985,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+986,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Sponge,104324,alternative metal; alternative rock; grunge; pop rock; post-grunge,45,artist,spotify:artist:2JXDwIo5HsiwTcTPQytrZ8
+987,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Filter,453524,alternative metal; alternative rock; grunge; industrial metal; industrial rock; nu metal; pop rock; post-grunge; rap rock; rock,57,artist,spotify:artist:01WjpKiWVNurV5hjIadB8C
+988,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Our Lady Peace,332168,alternative metal; alternative rock; canadian rock; grunge; nu metal; pop rock; post-grunge; rock,53,artist,spotify:artist:1lqW59DUEKqvcHc8mVWBtH
+989,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Silverchair,1074303,alternative metal; alternative rock; australian alternative rock; australian psych; grunge; nu metal; pop rock; post-grunge; rock,60,artist,spotify:artist:4iudEcmuPlYNdbP3e1bdn1
+990,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Temple Of The Dog,1071041,alternative metal; alternative rock; grunge; hard rock; nu metal; pop rock; rock; supergroup,57,artist,spotify:artist:0iHb0mCbqZTYeb4y9Pirrd
+991,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Toadies,247564,alternative metal; alternative rock; grunge; pop rock; post-grunge; rock,53,artist,spotify:artist:2QMMktUMtwMSwUZATX1cRO
+992,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Fuel,716274,alternative metal; alternative rock; neo mellow; nu metal; pop rock; post-grunge; rap rock; rock,57,artist,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+993,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Live,684369,alternative metal; alternative rock; pop rock; post-grunge; rock,61,artist,spotify:artist:6eoJpTIlcuxJNjV5fDzDJH
+994,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Soundgarden,3704411,alternative metal; alternative rock; grunge; hard rock; nu metal; rock,67,artist,spotify:artist:5xUf6j4upBrXZPg6AI4MRK
+995,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Mad Season,504943,alternative metal; alternative rock; blues rock; grunge; nu metal; rock; supergroup,51,artist,spotify:artist:0T7JQxpy1Li93vLNirbv0Z
+996,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Alice In Chains,4159641,alternative metal; alternative rock; grunge; hard rock; nu metal; rock,71,artist,spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+997,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Soul Asylum,527987,alternative rock; grunge; permanent wave; pop rock; post-grunge; rock,56,artist,spotify:artist:02da1vDJ2hWqfK7aJL6SJm
+998,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Jane's Addiction,1222862,alternative metal; alternative rock; blues rock; funk metal; funk rock; grunge; hard rock; nu metal; permanent wave; pop rock; rap rock; rock,58,artist,spotify:artist:02NfyD6AlLA12crYzw5YcR
+999,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,Blind Melon,1035493,alternative metal; alternative rock; blues rock; grunge; pop rock; rock,62,artist,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd
+1060,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Default,228033,alternative metal; canadian rock; nu metal; pop rock; post-grunge,49,artist,spotify:artist:4nCzT3o7lMgCWBcmdwCMsT
+1061,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Crossfade,778968,alternative metal; nu metal; post-grunge; rap rock,57,artist,spotify:artist:4IR8ZkpbyyKrqsIzchF3NB
+1062,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,10 Years,590558,alternative metal; christian rock; nu metal; post-grunge; rap rock,57,artist,spotify:artist:0REMf7H0VP6DwfZ9MbuWph
+1063,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,12 Stones,388227,alternative metal; christian alternative rock; christian hard rock; christian rock; nu metal; post-grunge; rap rock,54,artist,spotify:artist:0DrXhci3WAyo0WJv1RBOG6
+1064,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,The Exies,70331,alternative metal; christian rock; nu metal; post-grunge; rap rock,47,artist,spotify:artist:5V5NZ8y72BgxpB6rN4XxtI
+1065,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Submersed,62766,alternative metal; christian rock; hard alternative; nu metal; post-grunge,44,artist,spotify:artist:0539gq2LM2VDs01rp8gnGz
+1066,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Tantric,183128,alternative metal; nu metal; post-grunge; rap rock,48,artist,spotify:artist:4tMZahYVKJdjbC1GHVtNnV
+1067,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Trapt,991505,alternative metal; nu metal; pop rock; post-grunge; rap rock,58,artist,spotify:artist:1UdQqCUR7RwB9YYJONwbdM
+1068,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Smile Empty Soul,294415,alternative metal; christian rock; nu metal; post-grunge; rap rock,48,artist,spotify:artist:1KEUVZo7CMTSJoM8doulOT
+1069,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Earshot,111337,alternative metal; hard alternative; industrial metal; nu metal; rap rock,45,artist,spotify:artist:6eeYhqOX2cpsiHY6gVuvPA
+1070,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Saving Abel,767087,alternative metal; nu metal; pop rock; post-grunge,57,artist,spotify:artist:2AVVj8ezW2mJ0v8u7XydiF
+1071,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Puddle Of Mudd,1748969,alternative metal; alternative rock; nu metal; post-grunge; rap rock; rock,63,artist,spotify:artist:3dXaa6jwM7B52GZpaJEIr5
+1072,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,TRUSTcompany,116798,alabama metal; alternative metal; christian rock; nu metal; post-grunge; rap rock,50,artist,spotify:artist:21ALJSG7U07dShegeJQ2xA
+1073,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Finger Eleven,621706,alternative metal; canadian rock; funk metal; nu metal; post-grunge; rap rock,61,artist,spotify:artist:0niJkG4tKkne3zwr7I8n9n
+1074,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Cold,390344,alternative metal; industrial metal; nu metal; post-grunge; rap rock,53,artist,spotify:artist:0Gw3a3BkWLwsMLFbOBmo6Q
+1075,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Seether,2955190,alternative metal; modern rock; nu metal; post-grunge; south african rock,69,artist,spotify:artist:6B5c4sch27tWHAGdarpPaW
+1076,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Hinder,1640042,alternative metal; nu metal; pop rock; post-grunge,61,artist,spotify:artist:6BMhCQJYHxxKAeqYS1p5rY
+1077,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Scott Stapp,117514,alternative metal; nu metal; pop rock; post-grunge,47,artist,spotify:artist:6HySSUk2KthFj3bd9R61ql
+1078,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Creed,2716643,alternative metal; nu metal; pop rock; post-grunge; rock,67,artist,spotify:artist:43sZBwHjahUvgbx1WNIkIz
+1079,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp,Ra,112328,alternative metal; hard alternative; industrial metal; nu metal; post-grunge; rap rock,46,artist,spotify:artist:4qrdhnXBOzRt9OSmL29IFO
+1160,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+1161,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+1162,spotify:artist:0vEsuISMWAKNctLlUAhSZC,The Goo Goo Dolls,2341486,neo mellow; permanent wave; pop rock,71,artist,spotify:artist:2sil8z5kiy4r76CRTXxBCA
+1163,spotify:artist:0vEsuISMWAKNctLlUAhSZC,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+1164,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+1165,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Hootie & The Blowfish,958892,mellow gold; neo mellow; pop rock; singer-songwriter,60,artist,spotify:artist:08ct2eZF5lUPdJpHwNKWof
+1166,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+1167,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+1168,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Sister Hazel,302049,neo mellow; pop rock,52,artist,spotify:artist:7m60UAnbgFFNuJbmS6OxTk
+1169,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+1170,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+1171,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+1172,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Dishwalla,256873,neo mellow; pop rock; post-grunge,48,artist,spotify:artist:6F3NW2aC9Sni1FH7QPSLvw
+1173,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Blues Traveler,571939,alternative rock; blues rock; classic rock; jam band; mellow gold; pop rock; rock,57,artist,spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+1174,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Dave Matthews Band,1771147,jam band; pop rock,64,artist,spotify:artist:2TI7qyDE0QfyOlnbtfDo7L
+1175,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Third Eye Blind,1367781,alternative rock; neo mellow; pop rock; post-grunge; rock,64,artist,spotify:artist:6TcnmlCSxihzWOQJ8k0rNS
+1176,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+1177,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+1178,spotify:artist:0vEsuISMWAKNctLlUAhSZC,O.A.R.,369750,neo mellow; pop rock,57,artist,spotify:artist:1Cq0LAHFfvUTBEtMPXUidI
+1179,spotify:artist:0vEsuISMWAKNctLlUAhSZC,Matchbox Twenty,2202608,neo mellow; pop rock; post-grunge,66,artist,spotify:artist:3Ngh2zDBRPEriyxQDAMKd1
+1180,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+1181,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Stroke 9,46869,pop rock,39,artist,spotify:artist:6Nwc4urCR2Qdx302j2XIlv
+1182,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+1183,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+1184,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+1185,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Third Eye Blind,1367781,alternative rock; neo mellow; pop rock; post-grunge; rock,64,artist,spotify:artist:6TcnmlCSxihzWOQJ8k0rNS
+1186,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+1187,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,The Verve Pipe,308433,pop rock; post-grunge,47,artist,spotify:artist:242iqFnwNhlidVBMI9GYKp
+1188,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+1189,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Nine Days,87379,neo mellow; pop rock,52,artist,spotify:artist:306JHpIRGVaQd6OltnOzUO
+1190,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+1191,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Seven Mary Three,269503,alternative metal; alternative rock; pop rock; post-grunge,51,artist,spotify:artist:2zsLaQhHFdQPdFXqG1nRmM
+1192,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Lit,285897,pop punk; pop rock; socal pop punk,57,artist,spotify:artist:5mgr0FFpvy267wKVAYg8qp
+1193,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Sugar Ray,842166,alternative metal; alternative rock; funk metal; neo mellow; pop rock; rock,59,artist,spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+1194,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+1195,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+1196,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Our Lady Peace,332168,alternative metal; alternative rock; canadian rock; grunge; nu metal; pop rock; post-grunge; rock,53,artist,spotify:artist:1lqW59DUEKqvcHc8mVWBtH
+1197,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Fuel,716274,alternative metal; alternative rock; neo mellow; nu metal; pop rock; post-grunge; rap rock; rock,57,artist,spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+1198,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,Sponge,104324,alternative metal; alternative rock; grunge; pop rock; post-grunge,45,artist,spotify:artist:2JXDwIo5HsiwTcTPQytrZ8
+1199,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+1220,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+1221,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+1222,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Dishwalla,256873,neo mellow; pop rock; post-grunge,48,artist,spotify:artist:6F3NW2aC9Sni1FH7QPSLvw
+1223,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+1224,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+1225,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+1226,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Eve 6,382257,alternative metal; alternative rock; nu metal; pop rock; post-grunge,54,artist,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8
+1227,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+1228,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+1229,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+1230,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,New Radicals,199614,pop rock,58,artist,spotify:artist:0Grjlu7ncIuCaSYvCs9fcd
+1231,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Sugar Ray,842166,alternative metal; alternative rock; funk metal; neo mellow; pop rock; rock,59,artist,spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+1232,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Nine Days,87379,neo mellow; pop rock,52,artist,spotify:artist:306JHpIRGVaQd6OltnOzUO
+1233,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+1234,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+1235,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Soul Asylum,527987,alternative rock; grunge; permanent wave; pop rock; post-grunge; rock,56,artist,spotify:artist:02da1vDJ2hWqfK7aJL6SJm
+1236,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,The Verve Pipe,308433,pop rock; post-grunge,47,artist,spotify:artist:242iqFnwNhlidVBMI9GYKp
+1237,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Stroke 9,46869,pop rock,39,artist,spotify:artist:6Nwc4urCR2Qdx302j2XIlv
+1238,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Sister Hazel,302049,neo mellow; pop rock,52,artist,spotify:artist:7m60UAnbgFFNuJbmS6OxTk
+1239,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0,Hootie & The Blowfish,958892,mellow gold; neo mellow; pop rock; singer-songwriter,60,artist,spotify:artist:08ct2eZF5lUPdJpHwNKWof
+1420,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+1421,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+1422,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+1423,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,The Verve Pipe,308433,pop rock; post-grunge,47,artist,spotify:artist:242iqFnwNhlidVBMI9GYKp
+1424,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+1425,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+1426,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+1427,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+1428,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+1429,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+1430,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Counting Crows,1549577,alternative rock; neo mellow; pop rock; rock,69,artist,spotify:artist:0vEsuISMWAKNctLlUAhSZC
+1431,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Dishwalla,256873,neo mellow; pop rock; post-grunge,48,artist,spotify:artist:6F3NW2aC9Sni1FH7QPSLvw
+1432,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Soul Asylum,527987,alternative rock; grunge; permanent wave; pop rock; post-grunge; rock,56,artist,spotify:artist:02da1vDJ2hWqfK7aJL6SJm
+1433,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Hootie & The Blowfish,958892,mellow gold; neo mellow; pop rock; singer-songwriter,60,artist,spotify:artist:08ct2eZF5lUPdJpHwNKWof
+1434,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+1435,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Sister Hazel,302049,neo mellow; pop rock,52,artist,spotify:artist:7m60UAnbgFFNuJbmS6OxTk
+1436,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+1437,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Eve 6,382257,alternative metal; alternative rock; nu metal; pop rock; post-grunge,54,artist,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8
+1438,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Sponge,104324,alternative metal; alternative rock; grunge; pop rock; post-grunge,45,artist,spotify:artist:2JXDwIo5HsiwTcTPQytrZ8
+1439,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC,Bodeans,35060,pop rock; roots rock,40,artist,spotify:artist:2D2qwEatKbBSKhBCfP6lyn
+1440,spotify:artist:2PSiyldxmJze7xiqbz658m,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+1441,spotify:artist:2PSiyldxmJze7xiqbz658m,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+1442,spotify:artist:2PSiyldxmJze7xiqbz658m,Hootie & The Blowfish,958892,mellow gold; neo mellow; pop rock; singer-songwriter,60,artist,spotify:artist:08ct2eZF5lUPdJpHwNKWof
+1443,spotify:artist:2PSiyldxmJze7xiqbz658m,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+1444,spotify:artist:2PSiyldxmJze7xiqbz658m,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+1445,spotify:artist:2PSiyldxmJze7xiqbz658m,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+1446,spotify:artist:2PSiyldxmJze7xiqbz658m,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+1447,spotify:artist:2PSiyldxmJze7xiqbz658m,Sugar Ray,842166,alternative metal; alternative rock; funk metal; neo mellow; pop rock; rock,59,artist,spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+1448,spotify:artist:2PSiyldxmJze7xiqbz658m,Blues Traveler,571939,alternative rock; blues rock; classic rock; jam band; mellow gold; pop rock; rock,57,artist,spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+1449,spotify:artist:2PSiyldxmJze7xiqbz658m,Soul Asylum,527987,alternative rock; grunge; permanent wave; pop rock; post-grunge; rock,56,artist,spotify:artist:02da1vDJ2hWqfK7aJL6SJm
+1450,spotify:artist:2PSiyldxmJze7xiqbz658m,Counting Crows,1549577,alternative rock; neo mellow; pop rock; rock,69,artist,spotify:artist:0vEsuISMWAKNctLlUAhSZC
+1451,spotify:artist:2PSiyldxmJze7xiqbz658m,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+1452,spotify:artist:2PSiyldxmJze7xiqbz658m,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+1453,spotify:artist:2PSiyldxmJze7xiqbz658m,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+1454,spotify:artist:2PSiyldxmJze7xiqbz658m,Crash Test Dummies,252545,canadian rock; pop rock,53,artist,spotify:artist:1YEGETLT2p8k97LIo3deHL
+1455,spotify:artist:2PSiyldxmJze7xiqbz658m,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+1456,spotify:artist:2PSiyldxmJze7xiqbz658m,Eve 6,382257,alternative metal; alternative rock; nu metal; pop rock; post-grunge,54,artist,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8
+1457,spotify:artist:2PSiyldxmJze7xiqbz658m,New Radicals,199614,pop rock,58,artist,spotify:artist:0Grjlu7ncIuCaSYvCs9fcd
+1458,spotify:artist:2PSiyldxmJze7xiqbz658m,Sister Hazel,302049,neo mellow; pop rock,52,artist,spotify:artist:7m60UAnbgFFNuJbmS6OxTk
+1459,spotify:artist:2PSiyldxmJze7xiqbz658m,The Presidents Of The United States Of America,525209,alternative metal; alternative rock; grunge; pop rock; rap rock; rock,58,artist,spotify:artist:1lZvg4fNAqHoj6I9N8naBM
+2240,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Mad Season,504943,alternative metal; alternative rock; blues rock; grunge; nu metal; rock; supergroup,51,artist,spotify:artist:0T7JQxpy1Li93vLNirbv0Z
+2241,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Temple Of The Dog,1071041,alternative metal; alternative rock; grunge; hard rock; nu metal; pop rock; rock; supergroup,57,artist,spotify:artist:0iHb0mCbqZTYeb4y9Pirrd
+2242,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Mother Love Bone,299850,alternative metal; alternative rock; funk metal; grunge; rock,46,artist,spotify:artist:3XR64HmFo4OvexUUNW7TP0
+2243,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Screaming Trees,276941,alternative metal; alternative rock; grunge; rock,47,artist,spotify:artist:3Ukr3Ufjg8ygRJv7Ww887f
+2244,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Jane's Addiction,1222862,alternative metal; alternative rock; blues rock; funk metal; funk rock; grunge; hard rock; nu metal; permanent wave; pop rock; rap rock; rock,58,artist,spotify:artist:02NfyD6AlLA12crYzw5YcR
+2245,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Days Of The New,340398,alternative metal; alternative rock; grunge; nu metal; pop rock; post-grunge; rock,53,artist,spotify:artist:07jc1IMGtecDZzOL9cP50t
+2246,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Porno for Pyros,244540,alternative metal; alternative rock; funk metal; rock,45,artist,spotify:artist:58etTNn7xmsQZhjnfjpAXL
+2247,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Candlebox,754045,alternative metal; alternative rock; grunge; nu metal; pop rock; post-grunge; rock,54,artist,spotify:artist:3R6c2tWDBeYB1GncjLMn9n
+2248,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Soul Asylum,527987,alternative rock; grunge; permanent wave; pop rock; post-grunge; rock,56,artist,spotify:artist:02da1vDJ2hWqfK7aJL6SJm
+2249,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Local H,177848,alternative metal; alternative rock; grunge; modern rock; nu metal; pop rock; post-grunge; rock,53,artist,spotify:artist:415JrPfN7ukaTu8JV8BLE8
+2250,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Stone Temple Pilots,2997027,alternative metal; alternative rock; grunge; hard rock; nu metal; pop rock; post-grunge; rock,67,artist,spotify:artist:2UazAtjfzqBF0Nho2awK4z
+2251,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Sponge,104324,alternative metal; alternative rock; grunge; pop rock; post-grunge,45,artist,spotify:artist:2JXDwIo5HsiwTcTPQytrZ8
+2252,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Jerry Cantrell,248453,alternative metal; alternative rock; grunge; post-grunge; rock,45,artist,spotify:artist:5HUFo8AH9ZILmlyKFfEMNP
+2253,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Soundgarden,3704411,alternative metal; alternative rock; grunge; hard rock; nu metal; rock,67,artist,spotify:artist:5xUf6j4upBrXZPg6AI4MRK
+2254,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Toadies,247564,alternative metal; alternative rock; grunge; pop rock; post-grunge; rock,53,artist,spotify:artist:2QMMktUMtwMSwUZATX1cRO
+2255,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Alice In Chains,4159641,alternative metal; alternative rock; grunge; hard rock; nu metal; rock,71,artist,spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+2256,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Meat Puppets,236445,alternative rock; cowpunk; grunge; post-punk; punk; rock,48,artist,spotify:artist:2h9yQhKyqOMex3QFMVeq7F
+2257,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Chris Cornell,1869879,alternative metal; alternative rock; grunge; pop rock; rock,61,artist,spotify:artist:0XHiH53dHrvbwfjYM7en7I
+2258,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Bush,1606081,alternative metal; alternative rock; grunge; modern rock; nu metal; pop rock; post-grunge; rap rock; rock,63,artist,spotify:artist:78SHxLdtysAXgywQ4vE0Oa
+2259,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd,Silverchair,1074303,alternative metal; alternative rock; australian alternative rock; australian psych; grunge; nu metal; pop rock; post-grunge; rock,60,artist,spotify:artist:4iudEcmuPlYNdbP3e1bdn1
+2260,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Mad Season,504943,alternative metal; alternative rock; blues rock; grunge; nu metal; rock; supergroup,51,artist,spotify:artist:0T7JQxpy1Li93vLNirbv0Z
+2261,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Soundgarden,3704411,alternative metal; alternative rock; grunge; hard rock; nu metal; rock,67,artist,spotify:artist:5xUf6j4upBrXZPg6AI4MRK
+2262,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Temple Of The Dog,1071041,alternative metal; alternative rock; grunge; hard rock; nu metal; pop rock; rock; supergroup,57,artist,spotify:artist:0iHb0mCbqZTYeb4y9Pirrd
+2263,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Alice In Chains,4159641,alternative metal; alternative rock; grunge; hard rock; nu metal; rock,71,artist,spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+2264,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Bush,1606081,alternative metal; alternative rock; grunge; modern rock; nu metal; pop rock; post-grunge; rap rock; rock,63,artist,spotify:artist:78SHxLdtysAXgywQ4vE0Oa
+2265,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Days Of The New,340398,alternative metal; alternative rock; grunge; nu metal; pop rock; post-grunge; rock,53,artist,spotify:artist:07jc1IMGtecDZzOL9cP50t
+2266,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Jane's Addiction,1222862,alternative metal; alternative rock; blues rock; funk metal; funk rock; grunge; hard rock; nu metal; permanent wave; pop rock; rap rock; rock,58,artist,spotify:artist:02NfyD6AlLA12crYzw5YcR
+2267,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Blind Melon,1035493,alternative metal; alternative rock; blues rock; grunge; pop rock; rock,62,artist,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd
+2268,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Candlebox,754045,alternative metal; alternative rock; grunge; nu metal; pop rock; post-grunge; rock,54,artist,spotify:artist:3R6c2tWDBeYB1GncjLMn9n
+2269,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Jerry Cantrell,248453,alternative metal; alternative rock; grunge; post-grunge; rock,45,artist,spotify:artist:5HUFo8AH9ZILmlyKFfEMNP
+2270,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Mother Love Bone,299850,alternative metal; alternative rock; funk metal; grunge; rock,46,artist,spotify:artist:3XR64HmFo4OvexUUNW7TP0
+2271,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Chris Cornell,1869879,alternative metal; alternative rock; grunge; pop rock; rock,61,artist,spotify:artist:0XHiH53dHrvbwfjYM7en7I
+2272,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Screaming Trees,276941,alternative metal; alternative rock; grunge; rock,47,artist,spotify:artist:3Ukr3Ufjg8ygRJv7Ww887f
+2273,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Silverchair,1074303,alternative metal; alternative rock; australian alternative rock; australian psych; grunge; nu metal; pop rock; post-grunge; rock,60,artist,spotify:artist:4iudEcmuPlYNdbP3e1bdn1
+2274,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Local H,177848,alternative metal; alternative rock; grunge; modern rock; nu metal; pop rock; post-grunge; rock,53,artist,spotify:artist:415JrPfN7ukaTu8JV8BLE8
+2275,spotify:artist:2UazAtjfzqBF0Nho2awK4z,The Smashing Pumpkins,4130409,alternative metal; alternative rock; grunge; permanent wave; pop rock; rock; spacegrunge,72,artist,spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i
+2276,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Faith No More,1570618,alternative metal; alternative rock; funk metal; funk rock; hard rock; nu metal; rap metal; rap rock; rock,62,artist,spotify:artist:6GbCJZrI318Ybm8mY36Of5
+2277,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Audioslave,3893743,alternative metal; alternative rock; nu metal; permanent wave; post-grunge; rock; supergroup,68,artist,spotify:artist:2ziB7fzrXBoh1HUPS6sVFn
+2278,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Toadies,247564,alternative metal; alternative rock; grunge; pop rock; post-grunge; rock,53,artist,spotify:artist:2QMMktUMtwMSwUZATX1cRO
+2279,spotify:artist:2UazAtjfzqBF0Nho2awK4z,Seven Mary Three,269503,alternative metal; alternative rock; pop rock; post-grunge,51,artist,spotify:artist:2zsLaQhHFdQPdFXqG1nRmM
+2280,spotify:artist:694QW15WkebjcrWgQHzRYF,Marcy Playground,362083,alternative rock; pop rock; post-grunge; rock,58,artist,spotify:artist:7AQzXO3NPNQsI7oNu5rC3r
+2281,spotify:artist:694QW15WkebjcrWgQHzRYF,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+2282,spotify:artist:694QW15WkebjcrWgQHzRYF,Eve 6,382257,alternative metal; alternative rock; nu metal; pop rock; post-grunge,54,artist,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8
+2283,spotify:artist:694QW15WkebjcrWgQHzRYF,Counting Crows,1549577,alternative rock; neo mellow; pop rock; rock,69,artist,spotify:artist:0vEsuISMWAKNctLlUAhSZC
+2284,spotify:artist:694QW15WkebjcrWgQHzRYF,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+2285,spotify:artist:694QW15WkebjcrWgQHzRYF,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+2286,spotify:artist:694QW15WkebjcrWgQHzRYF,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+2287,spotify:artist:694QW15WkebjcrWgQHzRYF,The Presidents Of The United States Of America,525209,alternative metal; alternative rock; grunge; pop rock; rap rock; rock,58,artist,spotify:artist:1lZvg4fNAqHoj6I9N8naBM
+2288,spotify:artist:694QW15WkebjcrWgQHzRYF,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+2289,spotify:artist:694QW15WkebjcrWgQHzRYF,Third Eye Blind,1367781,alternative rock; neo mellow; pop rock; post-grunge; rock,64,artist,spotify:artist:6TcnmlCSxihzWOQJ8k0rNS
+2290,spotify:artist:694QW15WkebjcrWgQHzRYF,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+2291,spotify:artist:694QW15WkebjcrWgQHzRYF,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+2292,spotify:artist:694QW15WkebjcrWgQHzRYF,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+2293,spotify:artist:694QW15WkebjcrWgQHzRYF,Lit,285897,pop punk; pop rock; socal pop punk,57,artist,spotify:artist:5mgr0FFpvy267wKVAYg8qp
+2294,spotify:artist:694QW15WkebjcrWgQHzRYF,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+2295,spotify:artist:694QW15WkebjcrWgQHzRYF,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+2296,spotify:artist:694QW15WkebjcrWgQHzRYF,Sugar Ray,842166,alternative metal; alternative rock; funk metal; neo mellow; pop rock; rock,59,artist,spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+2297,spotify:artist:694QW15WkebjcrWgQHzRYF,Soul Asylum,527987,alternative rock; grunge; permanent wave; pop rock; post-grunge; rock,56,artist,spotify:artist:02da1vDJ2hWqfK7aJL6SJm
+2298,spotify:artist:694QW15WkebjcrWgQHzRYF,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+2299,spotify:artist:694QW15WkebjcrWgQHzRYF,Hootie & The Blowfish,958892,mellow gold; neo mellow; pop rock; singer-songwriter,60,artist,spotify:artist:08ct2eZF5lUPdJpHwNKWof
+2960,spotify:artist:02NfyD6AlLA12crYzw5YcR,Porno for Pyros,244540,alternative metal; alternative rock; funk metal; rock,45,artist,spotify:artist:58etTNn7xmsQZhjnfjpAXL
+2961,spotify:artist:02NfyD6AlLA12crYzw5YcR,Mad Season,504943,alternative metal; alternative rock; blues rock; grunge; nu metal; rock; supergroup,51,artist,spotify:artist:0T7JQxpy1Li93vLNirbv0Z
+2962,spotify:artist:02NfyD6AlLA12crYzw5YcR,Blind Melon,1035493,alternative metal; alternative rock; blues rock; grunge; pop rock; rock,62,artist,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd
+2963,spotify:artist:02NfyD6AlLA12crYzw5YcR,Mother Love Bone,299850,alternative metal; alternative rock; funk metal; grunge; rock,46,artist,spotify:artist:3XR64HmFo4OvexUUNW7TP0
+2964,spotify:artist:02NfyD6AlLA12crYzw5YcR,Temple Of The Dog,1071041,alternative metal; alternative rock; grunge; hard rock; nu metal; pop rock; rock; supergroup,57,artist,spotify:artist:0iHb0mCbqZTYeb4y9Pirrd
+2965,spotify:artist:02NfyD6AlLA12crYzw5YcR,Screaming Trees,276941,alternative metal; alternative rock; grunge; rock,47,artist,spotify:artist:3Ukr3Ufjg8ygRJv7Ww887f
+2966,spotify:artist:02NfyD6AlLA12crYzw5YcR,Jerry Cantrell,248453,alternative metal; alternative rock; grunge; post-grunge; rock,45,artist,spotify:artist:5HUFo8AH9ZILmlyKFfEMNP
+2967,spotify:artist:02NfyD6AlLA12crYzw5YcR,Local H,177848,alternative metal; alternative rock; grunge; modern rock; nu metal; pop rock; post-grunge; rock,53,artist,spotify:artist:415JrPfN7ukaTu8JV8BLE8
+2968,spotify:artist:02NfyD6AlLA12crYzw5YcR,Toadies,247564,alternative metal; alternative rock; grunge; pop rock; post-grunge; rock,53,artist,spotify:artist:2QMMktUMtwMSwUZATX1cRO
+2969,spotify:artist:02NfyD6AlLA12crYzw5YcR,Days Of The New,340398,alternative metal; alternative rock; grunge; nu metal; pop rock; post-grunge; rock,53,artist,spotify:artist:07jc1IMGtecDZzOL9cP50t
+2970,spotify:artist:02NfyD6AlLA12crYzw5YcR,Soundgarden,3704411,alternative metal; alternative rock; grunge; hard rock; nu metal; rock,67,artist,spotify:artist:5xUf6j4upBrXZPg6AI4MRK
+2971,spotify:artist:02NfyD6AlLA12crYzw5YcR,Meat Puppets,236445,alternative rock; cowpunk; grunge; post-punk; punk; rock,48,artist,spotify:artist:2h9yQhKyqOMex3QFMVeq7F
+2972,spotify:artist:02NfyD6AlLA12crYzw5YcR,Faith No More,1570618,alternative metal; alternative rock; funk metal; funk rock; hard rock; nu metal; rap metal; rap rock; rock,62,artist,spotify:artist:6GbCJZrI318Ybm8mY36Of5
+2973,spotify:artist:02NfyD6AlLA12crYzw5YcR,Primus,966196,alternative metal; alternative rock; comic; funk metal; funk rock; nu metal; rap rock; rock,58,artist,spotify:artist:64mPnRMMeudAet0E62ypkx
+2974,spotify:artist:02NfyD6AlLA12crYzw5YcR,Stone Temple Pilots,2997027,alternative metal; alternative rock; grunge; hard rock; nu metal; pop rock; post-grunge; rock,67,artist,spotify:artist:2UazAtjfzqBF0Nho2awK4z
+2975,spotify:artist:02NfyD6AlLA12crYzw5YcR,Sponge,104324,alternative metal; alternative rock; grunge; pop rock; post-grunge,45,artist,spotify:artist:2JXDwIo5HsiwTcTPQytrZ8
+2976,spotify:artist:02NfyD6AlLA12crYzw5YcR,Soul Asylum,527987,alternative rock; grunge; permanent wave; pop rock; post-grunge; rock,56,artist,spotify:artist:02da1vDJ2hWqfK7aJL6SJm
+2977,spotify:artist:02NfyD6AlLA12crYzw5YcR,Candlebox,754045,alternative metal; alternative rock; grunge; nu metal; pop rock; post-grunge; rock,54,artist,spotify:artist:3R6c2tWDBeYB1GncjLMn9n
+2978,spotify:artist:02NfyD6AlLA12crYzw5YcR,Perry Farrell,34048,alternative rock,42,artist,spotify:artist:2DS5RPK5A2GQTucYlgsQdE
+2979,spotify:artist:02NfyD6AlLA12crYzw5YcR,Living Colour,323901,alternative metal; alternative rock; funk metal; funk rock; hard rock; rap rock; rock,53,artist,spotify:artist:6Uhp7WA6sjm5ZL6Xz561de
+3220,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+3221,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+3222,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+3223,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+3224,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Eve 6,382257,alternative metal; alternative rock; nu metal; pop rock; post-grunge,54,artist,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8
+3225,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+3226,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Sugar Ray,842166,alternative metal; alternative rock; funk metal; neo mellow; pop rock; rock,59,artist,spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+3227,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+3228,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+3229,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+3230,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+3231,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,New Radicals,199614,pop rock,58,artist,spotify:artist:0Grjlu7ncIuCaSYvCs9fcd
+3232,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+3233,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,The Verve Pipe,308433,pop rock; post-grunge,47,artist,spotify:artist:242iqFnwNhlidVBMI9GYKp
+3234,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Hootie & The Blowfish,958892,mellow gold; neo mellow; pop rock; singer-songwriter,60,artist,spotify:artist:08ct2eZF5lUPdJpHwNKWof
+3235,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Stroke 9,46869,pop rock,39,artist,spotify:artist:6Nwc4urCR2Qdx302j2XIlv
+3236,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+3237,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Nine Days,87379,neo mellow; pop rock,52,artist,spotify:artist:306JHpIRGVaQd6OltnOzUO
+3238,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Sister Hazel,302049,neo mellow; pop rock,52,artist,spotify:artist:7m60UAnbgFFNuJbmS6OxTk
+3239,spotify:artist:7FtVJzRtpQpU61nBwB7cKN,Spacehog,97008,alternative rock; glam rock; pop rock,46,artist,spotify:artist:3NZE8jDD2cCzd4vUyZ5CQQ
+3460,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+3461,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Sponge,104324,alternative metal; alternative rock; grunge; pop rock; post-grunge,45,artist,spotify:artist:2JXDwIo5HsiwTcTPQytrZ8
+3462,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+3463,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+3464,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+3465,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Spacehog,97008,alternative rock; glam rock; pop rock,46,artist,spotify:artist:3NZE8jDD2cCzd4vUyZ5CQQ
+3466,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+3467,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,The Verve Pipe,308433,pop rock; post-grunge,47,artist,spotify:artist:242iqFnwNhlidVBMI9GYKp
+3468,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+3469,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+3470,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+3471,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Dishwalla,256873,neo mellow; pop rock; post-grunge,48,artist,spotify:artist:6F3NW2aC9Sni1FH7QPSLvw
+3472,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Seven Mary Three,269503,alternative metal; alternative rock; pop rock; post-grunge,51,artist,spotify:artist:2zsLaQhHFdQPdFXqG1nRmM
+3473,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Toadies,247564,alternative metal; alternative rock; grunge; pop rock; post-grunge; rock,53,artist,spotify:artist:2QMMktUMtwMSwUZATX1cRO
+3474,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+3475,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Blind Melon,1035493,alternative metal; alternative rock; blues rock; grunge; pop rock; rock,62,artist,spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd
+3476,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Local H,177848,alternative metal; alternative rock; grunge; modern rock; nu metal; pop rock; post-grunge; rock,53,artist,spotify:artist:415JrPfN7ukaTu8JV8BLE8
+3477,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+3478,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,The Presidents Of The United States Of America,525209,alternative metal; alternative rock; grunge; pop rock; rap rock; rock,58,artist,spotify:artist:1lZvg4fNAqHoj6I9N8naBM
+3479,spotify:artist:02da1vDJ2hWqfK7aJL6SJm,Cracker,84656,alternative country; alternative rock; permanent wave; pop rock; roots rock,49,artist,spotify:artist:0ODQJS4mk7rVBJXjdqByX6
+3600,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,The Goo Goo Dolls,2341486,neo mellow; permanent wave; pop rock,71,artist,spotify:artist:2sil8z5kiy4r76CRTXxBCA
+3601,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Dishwalla,256873,neo mellow; pop rock; post-grunge,48,artist,spotify:artist:6F3NW2aC9Sni1FH7QPSLvw
+3602,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+3603,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Edwin McCain,286536,neo mellow; pop rock,53,artist,spotify:artist:0L6Gwm0JDrgIQJfjarWSUR
+3604,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Nine Days,87379,neo mellow; pop rock,52,artist,spotify:artist:306JHpIRGVaQd6OltnOzUO
+3605,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,The Verve Pipe,308433,pop rock; post-grunge,47,artist,spotify:artist:242iqFnwNhlidVBMI9GYKp
+3606,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+3607,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+3608,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Sister Hazel,302049,neo mellow; pop rock,52,artist,spotify:artist:7m60UAnbgFFNuJbmS6OxTk
+3609,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+3610,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Five For Fighting,766347,acoustic pop; neo mellow; piano rock; pop rock,60,artist,spotify:artist:7FgMLbnZVrEnir95O0YujA
+3611,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Eve 6,382257,alternative metal; alternative rock; nu metal; pop rock; post-grunge,54,artist,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8
+3612,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,The Calling,675196,neo mellow; pop rock,61,artist,spotify:artist:5aMmmNxw4vgpc5XC6hK0zp
+3613,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+3614,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+3615,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Counting Crows,1549577,alternative rock; neo mellow; pop rock; rock,69,artist,spotify:artist:0vEsuISMWAKNctLlUAhSZC
+3616,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Howie Day,308355,acoustic pop; neo mellow; pop rock,55,artist,spotify:artist:0ekbDNE2eOq8QiaXM34wer
+3617,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+3618,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+3619,spotify:artist:6Hizgjo92FnMp8wGaRUNTn,Augustana,208515,acoustic pop; neo mellow; piano rock; pop rock,48,artist,spotify:artist:61YE3whKiuRr83j1yOm5M7
+3860,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+3861,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,The Verve Pipe,308433,pop rock; post-grunge,47,artist,spotify:artist:242iqFnwNhlidVBMI9GYKp
+3862,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Eve 6,382257,alternative metal; alternative rock; nu metal; pop rock; post-grunge,54,artist,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8
+3863,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+3864,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+3865,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+3866,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+3867,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+3868,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+3869,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Stroke 9,46869,pop rock,39,artist,spotify:artist:6Nwc4urCR2Qdx302j2XIlv
+3870,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+3871,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+3872,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+3873,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Dishwalla,256873,neo mellow; pop rock; post-grunge,48,artist,spotify:artist:6F3NW2aC9Sni1FH7QPSLvw
+3874,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Sister Hazel,302049,neo mellow; pop rock,52,artist,spotify:artist:7m60UAnbgFFNuJbmS6OxTk
+3875,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+3876,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Third Eye Blind,1367781,alternative rock; neo mellow; pop rock; post-grunge; rock,64,artist,spotify:artist:6TcnmlCSxihzWOQJ8k0rNS
+3877,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Counting Crows,1549577,alternative rock; neo mellow; pop rock; rock,69,artist,spotify:artist:0vEsuISMWAKNctLlUAhSZC
+3878,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Nine Days,87379,neo mellow; pop rock,52,artist,spotify:artist:306JHpIRGVaQd6OltnOzUO
+3879,spotify:artist:4UuoJfJ9UybJft7a8E6UHX,Hootie & The Blowfish,958892,mellow gold; neo mellow; pop rock; singer-songwriter,60,artist,spotify:artist:08ct2eZF5lUPdJpHwNKWof
+4100,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+4101,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Blessid Union Of Souls,96918,cowpunk; neo mellow; pop rock,45,artist,spotify:artist:4W4gYpQ2AQq7US2HZS13Qw
+4102,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+4103,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+4104,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Hootie & The Blowfish,958892,mellow gold; neo mellow; pop rock; singer-songwriter,60,artist,spotify:artist:08ct2eZF5lUPdJpHwNKWof
+4105,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+4106,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Counting Crows,1549577,alternative rock; neo mellow; pop rock; rock,69,artist,spotify:artist:0vEsuISMWAKNctLlUAhSZC
+4107,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+4108,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,O.A.R.,369750,neo mellow; pop rock,57,artist,spotify:artist:1Cq0LAHFfvUTBEtMPXUidI
+4109,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+4110,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Dishwalla,256873,neo mellow; pop rock; post-grunge,48,artist,spotify:artist:6F3NW2aC9Sni1FH7QPSLvw
+4111,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+4112,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,The Goo Goo Dolls,2341486,neo mellow; permanent wave; pop rock,71,artist,spotify:artist:2sil8z5kiy4r76CRTXxBCA
+4113,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Five For Fighting,766347,acoustic pop; neo mellow; piano rock; pop rock,60,artist,spotify:artist:7FgMLbnZVrEnir95O0YujA
+4114,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Rob Thomas,812001,neo mellow; pop rock,61,artist,spotify:artist:3aBkeBhwadnWMWoVJ2CxJC
+4115,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Matchbox Twenty,2202608,neo mellow; pop rock; post-grunge,66,artist,spotify:artist:3Ngh2zDBRPEriyxQDAMKd1
+4116,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Toad The Wet Sprocket,295297,alternative rock; neo mellow; pop rock; rock,51,artist,spotify:artist:4j7EVY3kuDwLPfD2jfC7LC
+4117,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+4118,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Nine Days,87379,neo mellow; pop rock,52,artist,spotify:artist:306JHpIRGVaQd6OltnOzUO
+4119,spotify:artist:7m60UAnbgFFNuJbmS6OxTk,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+4280,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Smash Mouth,892780,alternative rock; pop rock,66,artist,spotify:artist:2iEvnFsWxR0Syqu2JNopAd
+4281,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Fastball,158487,neo mellow; pop rock,51,artist,spotify:artist:7FtVJzRtpQpU61nBwB7cKN
+4282,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Eve 6,382257,alternative metal; alternative rock; nu metal; pop rock; post-grunge,54,artist,spotify:artist:4Eqd24yS5YcxI8b6Xfuwr8
+4283,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Semisonic,387417,alternative rock; neo mellow; pop rock,58,artist,spotify:artist:1TqQi97nqeiuOJrIFv5Sw0
+4284,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Everclear,839960,alternative metal; alternative rock; permanent wave; pop rock; post-grunge; rock,60,artist,spotify:artist:694QW15WkebjcrWgQHzRYF
+4285,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Third Eye Blind,1367781,alternative rock; neo mellow; pop rock; post-grunge; rock,64,artist,spotify:artist:6TcnmlCSxihzWOQJ8k0rNS
+4286,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Spin Doctors,556887,alternative rock; pop rock; rock,59,artist,spotify:artist:2PSiyldxmJze7xiqbz658m
+4287,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Vertical Horizon,385973,neo mellow; pop rock,52,artist,spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+4288,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Better Than Ezra,378352,alternative rock; neo mellow; pop rock; post-grunge,50,artist,spotify:artist:4UuoJfJ9UybJft7a8E6UHX
+4289,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Gin Blossoms,578660,alternative rock; neo mellow; permanent wave; pop rock; post-grunge; rock; tempe indie,58,artist,spotify:artist:6kXp61QMZFPcKMcRPqoiVj
+4290,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,The Presidents Of The United States Of America,525209,alternative metal; alternative rock; grunge; pop rock; rap rock; rock,58,artist,spotify:artist:1lZvg4fNAqHoj6I9N8naBM
+4291,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Matchbox Twenty,2202608,neo mellow; pop rock; post-grunge,66,artist,spotify:artist:3Ngh2zDBRPEriyxQDAMKd1
+4292,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,The Wallflowers,703074,alternative rock; mellow gold; neo mellow; pop rock; post-grunge; rock,59,artist,spotify:artist:0jJNGWrpjGIHUdTTJiIYeB
+4293,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Hootie & The Blowfish,958892,mellow gold; neo mellow; pop rock; singer-songwriter,60,artist,spotify:artist:08ct2eZF5lUPdJpHwNKWof
+4294,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Tonic,271355,alternative metal; alternative rock; neo mellow; pop rock; post-grunge; rock,53,artist,spotify:artist:6qXwLwTLdA44HYsA26vaNU
+4295,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Marcy Playground,362083,alternative rock; pop rock; post-grunge; rock,58,artist,spotify:artist:7AQzXO3NPNQsI7oNu5rC3r
+4296,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,New Radicals,199614,pop rock,58,artist,spotify:artist:0Grjlu7ncIuCaSYvCs9fcd
+4297,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Barenaked Ladies,684267,canadian pop; canadian rock; comic; neo mellow; pop rock,60,artist,spotify:artist:0dEvJpkqhrcn64d3oI8v79
+4298,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Collective Soul,941515,alternative rock; nu metal; pop rock; post-grunge; rock,61,artist,spotify:artist:4e5V1Q2dKCzbLVMQ8qbTn6
+4299,spotify:artist:4uN3DsfENc7dp0OLO0FEIb,Counting Crows,1549577,alternative rock; neo mellow; pop rock; rock,69,artist,spotify:artist:0vEsuISMWAKNctLlUAhSZC

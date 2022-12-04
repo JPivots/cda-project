@@ -1,0 +1,861 @@
+,node_artist,edge_artist,followers,genres,popularity,_type,edge_uri
+840,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Craig Morgan,934150,contemporary country; country; country road; modern country rock,57,artist,spotify:artist:6ktyNEnEukKzskQEiXgCFD
+841,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Josh Gracin,224012,contemporary country; country; country pop; country road; modern country rock,49,artist,spotify:artist:1456WwI15Lm9CktCzkLZvm
+842,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Trent Tomlinson,200179,contemporary country; country; country pop; country road; modern country rock; redneck,46,artist,spotify:artist:1Zn69emN3uZsF6YwCrkgYp
+843,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Montgomery Gentry,1311718,contemporary country; country; country road; modern country rock; redneck,60,artist,spotify:artist:3bGXaFVQLASmDMdjjeJr8a
+844,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Jason Michael Carroll,316652,contemporary country; country; country pop; country road; modern country rock,45,artist,spotify:artist:6vgqbvuLEUcrg7SB1kRTYE
+845,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Phil Vassar,314005,contemporary country; country; country road; modern country rock,47,artist,spotify:artist:1XhhO2dTs2fKyhILj0aam6
+846,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+847,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Trace Adkins,2341921,contemporary country; country; country road,62,artist,spotify:artist:79FMDwzZQxHgSkIYBl3ODU
+848,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Emerson Drive,253115,alberta country; canadian contemporary country; canadian country; contemporary country; country; country road; modern country rock,45,artist,spotify:artist:1efrXlPhLKv7PvgUxVcqIS
+849,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Gary Allan,996142,contemporary country; country; country road; country rock; modern country rock,60,artist,spotify:artist:37W8SKV5Vc8lcGtdyWCA5m
+850,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Keith Anderson,355421,contemporary country; country; country road; modern country rock; oklahoma country,48,artist,spotify:artist:4AgQTHagFdBq8VL791lSXz
+851,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+852,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Joe Nichols,703158,arkansas country; contemporary country; country; country road; modern country rock,59,artist,spotify:artist:4aJTB79uwT4sP0Nb8QGWHc
+853,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Big & Rich,1100393,contemporary country; country; country road; modern country rock,58,artist,spotify:artist:0oBEeN6BCxEgMogzThqrPf
+854,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Lonestar,1266616,contemporary country; country; country road,60,artist,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK
+855,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Mark Wills,298815,contemporary country; country; country road,51,artist,spotify:artist:0dlwjJe4kg9TgOMN184bJF
+856,spotify:artist:1zhIzONVRlTfD1VQRauHMl,David Lee Murphy,285255,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:78OAtwN3XpjMcjibnF2Kw5
+857,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Darryl Worley,212229,contemporary country; country; country road; country rock; modern country rock,46,artist,spotify:artist:4zIBkSJcqRp4ADuFI94WvO
+858,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Jerrod Niemann,477264,contemporary country; country; country road; modern country rock,53,artist,spotify:artist:0RKP52f5PNDCRZ9Luq2Sr7
+859,spotify:artist:1zhIzONVRlTfD1VQRauHMl,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+1120,spotify:artist:3XnO697XIus1M0cMuxZjos,Mel McDaniel,164663,country; country rock; oklahoma country,55,artist,spotify:artist:1fMdO9vLUd6wW4jbMeNiup
+1121,spotify:artist:3XnO697XIus1M0cMuxZjos,Earl Thomas Conley,226329,country; country rock,45,artist,spotify:artist:69baNgo5tsg1RjBgotRbEj
+1122,spotify:artist:3XnO697XIus1M0cMuxZjos,Ricky Van Shelton,331902,classic country pop; country; country rock,46,artist,spotify:artist:4uaaRGr9KMfYPDaUnBIngc
+1123,spotify:artist:3XnO697XIus1M0cMuxZjos,John Conlee,158531,classic country pop; country; country rock,47,artist,spotify:artist:4Wfq6fHhifS8MmQOcJ18TP
+1124,spotify:artist:3XnO697XIus1M0cMuxZjos,T.G. Sheppard,126084,classic country pop; country; country rock,43,artist,spotify:artist:23C7hNBr8GRdsk3VoTSZXh
+1125,spotify:artist:3XnO697XIus1M0cMuxZjos,Eddy Raven,69388,classic country pop; country; country rock,42,artist,spotify:artist:23YxuG76RQvo4r7jChCwxK
+1126,spotify:artist:3XnO697XIus1M0cMuxZjos,Eddie Rabbitt,329339,country; country rock; mellow gold,54,artist,spotify:artist:0jgAONnsHxrwAlhkMUVS78
+1127,spotify:artist:3XnO697XIus1M0cMuxZjos,Johnny Lee,127687,classic country pop; country; country rock,46,artist,spotify:artist:45rAZqRt5nUUMatQzk8qJu
+1128,spotify:artist:3XnO697XIus1M0cMuxZjos,Ronnie Milsap,352228,classic country pop; country; country rock; nashville sound,55,artist,spotify:artist:6Sb8EHpZvyjSTT5KD9DjUZ
+1129,spotify:artist:3XnO697XIus1M0cMuxZjos,Dan Seals,163598,classic country pop; country; country rock,50,artist,spotify:artist:55yEsJBqyn27JPsw5hHzqi
+1130,spotify:artist:3XnO697XIus1M0cMuxZjos,T. Graham Brown,73401,classic country pop; country; country rock,47,artist,spotify:artist:0UMJlMGr85C0C5D7wmB0Ik
+1131,spotify:artist:3XnO697XIus1M0cMuxZjos,Barbara Mandrell,217637,classic country pop; country; country gospel; country rock,45,artist,spotify:artist:67BqBdApdbZ0onglFqRoTg
+1132,spotify:artist:3XnO697XIus1M0cMuxZjos,Tanya Tucker,553038,country; country dawn; country rock; outlaw country,54,artist,spotify:artist:7dmeVSH4lJqxXU7C87dKIB
+1133,spotify:artist:3XnO697XIus1M0cMuxZjos,The Kendalls,70750,classic country pop; country rock,36,artist,spotify:artist:1rFQlnVFNwI3H6QLDL7LFN
+1134,spotify:artist:3XnO697XIus1M0cMuxZjos,Vern Gosdin,144626,bakersfield sound; country; country rock,47,artist,spotify:artist:4kNRotUiNCcfZhnpJJTDtl
+1135,spotify:artist:3XnO697XIus1M0cMuxZjos,Mickey Gilley,166669,classic country pop; country; country rock; nashville sound,44,artist,spotify:artist:5kFY4Bv5VRSBsM6CUYBoTC
+1136,spotify:artist:3XnO697XIus1M0cMuxZjos,Larry Gatlin & The Gatlin Brothers,59277,classic country pop; country; country gospel; country rock,40,artist,spotify:artist:0KzlJXg6A3NVSCkRjecKnS
+1137,spotify:artist:3XnO697XIus1M0cMuxZjos,The Bellamy Brothers,310723,country; country rock,57,artist,spotify:artist:5iB5AWIa7qreioi0AF3Bxa
+1138,spotify:artist:3XnO697XIus1M0cMuxZjos,Highway 101,97044,country; country dawn; country rock,37,artist,spotify:artist:0yXAvxrEkI26bKj0o4yyou
+1139,spotify:artist:3XnO697XIus1M0cMuxZjos,Don Williams,589168,country; country rock,59,artist,spotify:artist:4Ti0EKl2PVEms2NRMVGqNe
+1140,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Earl Thomas Conley,226329,country; country rock,45,artist,spotify:artist:69baNgo5tsg1RjBgotRbEj
+1141,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Mel McDaniel,164663,country; country rock; oklahoma country,55,artist,spotify:artist:1fMdO9vLUd6wW4jbMeNiup
+1142,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+1143,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+1144,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Eddy Raven,69388,classic country pop; country; country rock,42,artist,spotify:artist:23YxuG76RQvo4r7jChCwxK
+1145,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+1146,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Lee Roy Parnell,68399,country; country road; country rock,39,artist,spotify:artist:3bW6mQczkt1r8tnWIDeBVJ
+1147,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Highway 101,97044,country; country dawn; country rock,37,artist,spotify:artist:0yXAvxrEkI26bKj0o4yyou
+1148,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,T. Graham Brown,73401,classic country pop; country; country rock,47,artist,spotify:artist:0UMJlMGr85C0C5D7wmB0Ik
+1149,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Doug Supernaw,76311,country; country road; country rock,34,artist,spotify:artist:0OraDGrDGEuqJ2d7250K1i
+1150,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+1151,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+1152,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Steve Wariner,134037,country; country road; country rock,46,artist,spotify:artist:45S8rtgQSxj1a0tzCNhSeD
+1153,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,John Conlee,158531,classic country pop; country; country rock,47,artist,spotify:artist:4Wfq6fHhifS8MmQOcJ18TP
+1154,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Vern Gosdin,144626,bakersfield sound; country; country rock,47,artist,spotify:artist:4kNRotUiNCcfZhnpJJTDtl
+1155,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Dan Seals,163598,classic country pop; country; country rock,50,artist,spotify:artist:55yEsJBqyn27JPsw5hHzqi
+1156,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Restless Heart,209401,country; country rock,47,artist,spotify:artist:0FcmRWJUfnCuwoXE1H2b0H
+1157,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,David Ball,94812,country; country road; country rock,45,artist,spotify:artist:7y9COUDxusQXRjW95vOubE
+1158,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,T.G. Sheppard,126084,classic country pop; country; country rock,43,artist,spotify:artist:23C7hNBr8GRdsk3VoTSZXh
+1159,spotify:artist:4uaaRGr9KMfYPDaUnBIngc,Paul Overstreet,66596,country; country rock,38,artist,spotify:artist:3ylJ2aEWS2QkIj4XPiC28z
+1700,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Jake Owen,1789769,contemporary country; country; country road,66,artist,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT
+1701,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Justin Moore,1615054,arkansas country; contemporary country; country; country road,65,artist,spotify:artist:30e8DmahrEamvLbFRPdWmk
+1702,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Kip Moore,1165131,contemporary country; country; country road; modern country rock,63,artist,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM
+1703,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Dustin Lynch,1913105,contemporary country; country; country road; modern country rock,67,artist,spotify:artist:1dID9zgn0OV0Y8ud7Mh2tS
+1704,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Brothers Osborne,1061384,contemporary country; country; country road; modern southern rock,64,artist,spotify:artist:39NR3AUhpbbqKM33vWn2fp
+1705,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Lee Brice,1830634,contemporary country; country; country road,71,artist,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk
+1706,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Michael Ray,435676,contemporary country; country; country pop; country road; modern country rock,57,artist,spotify:artist:6ghiFYcwn2Vzl6K50U0UPz
+1707,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Dylan Scott,1257713,contemporary country; country; country road,65,artist,spotify:artist:78YqeIji3mgAS2K1Maca6x
+1708,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Florida Georgia Line,4937714,contemporary country; country; country pop; country road; modern country rock,76,artist,spotify:artist:3b8QkneNDz4JHKKKlLgYZg
+1709,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Billy Currington,2416378,contemporary country; country; country road,66,artist,spotify:artist:1By9QBFnjZAoI83BZppHlt
+1710,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Chris Lane,845216,contemporary country; country; country road,63,artist,spotify:artist:68abRTdO4meYReMWHvBYb0
+1711,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Brantley Gilbert,2682235,contemporary country; country; country road; modern country rock,67,artist,spotify:artist:5q8HGNo0BjLWaTAhRtbwxa
+1712,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Jason Aldean,5614980,contemporary country; country; country road,75,artist,spotify:artist:3FfvYsEGaIb52QPXhg4DcH
+1713,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Luke Bryan,7678662,contemporary country; country; country road,77,artist,spotify:artist:0BvkDsjIUla7X0k6CSWh1I
+1714,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Cole Swindell,1903417,contemporary country; country; country road; modern country rock,70,artist,spotify:artist:1mfDfLsMxYcOOZkzBxvSVW
+1715,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Thomas Rhett,4244044,contemporary country; country; country road,74,artist,spotify:artist:6x2LnllRG5uGarZMsD4iO8
+1716,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,James Barker Band,125506,canadian contemporary country; canadian country; contemporary country; country; country road; modern country rock,54,artist,spotify:artist:54lUDwCk35ihJuK3yJCqHA
+1717,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Rodney Atkins,1785091,contemporary country; country; country road,62,artist,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2
+1718,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,Eric Church,3540980,contemporary country; country; country road,71,artist,spotify:artist:2IvkS5MXK0vPGnwyJsrEyV
+1719,spotify:artist:4MoAOfV4ROWofLG3a3hhBN,David Nail,365246,contemporary country; country; country road; modern country rock,55,artist,spotify:artist:4DZGvSv2oMkBUnPz67E6z6
+1720,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Jake Owen,1789769,contemporary country; country; country road,66,artist,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT
+1721,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Justin Moore,1615054,arkansas country; contemporary country; country; country road,65,artist,spotify:artist:30e8DmahrEamvLbFRPdWmk
+1722,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Dustin Lynch,1913105,contemporary country; country; country road; modern country rock,67,artist,spotify:artist:1dID9zgn0OV0Y8ud7Mh2tS
+1723,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Brantley Gilbert,2682235,contemporary country; country; country road; modern country rock,67,artist,spotify:artist:5q8HGNo0BjLWaTAhRtbwxa
+1724,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Jon Pardi,1488463,contemporary country; country; country road; modern country rock,73,artist,spotify:artist:4MoAOfV4ROWofLG3a3hhBN
+1725,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Florida Georgia Line,4937714,contemporary country; country; country pop; country road; modern country rock,76,artist,spotify:artist:3b8QkneNDz4JHKKKlLgYZg
+1726,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,David Nail,365246,contemporary country; country; country road; modern country rock,55,artist,spotify:artist:4DZGvSv2oMkBUnPz67E6z6
+1727,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Luke Bryan,7678662,contemporary country; country; country road,77,artist,spotify:artist:0BvkDsjIUla7X0k6CSWh1I
+1728,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Kip Moore,1165131,contemporary country; country; country road; modern country rock,63,artist,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM
+1729,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Billy Currington,2416378,contemporary country; country; country road,66,artist,spotify:artist:1By9QBFnjZAoI83BZppHlt
+1730,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Jason Aldean,5614980,contemporary country; country; country road,75,artist,spotify:artist:3FfvYsEGaIb52QPXhg4DcH
+1731,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Keith Urban,4884203,australian country; australian pop; contemporary country; country; country road,71,artist,spotify:artist:0u2FHSq3ln94y5Q57xazwf
+1732,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Chris Lane,845216,contemporary country; country; country road,63,artist,spotify:artist:68abRTdO4meYReMWHvBYb0
+1733,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Dylan Scott,1257713,contemporary country; country; country road,65,artist,spotify:artist:78YqeIji3mgAS2K1Maca6x
+1734,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Thomas Rhett,4244044,contemporary country; country; country road,74,artist,spotify:artist:6x2LnllRG5uGarZMsD4iO8
+1735,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Rodney Atkins,1785091,contemporary country; country; country road,62,artist,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2
+1736,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Cole Swindell,1903417,contemporary country; country; country road; modern country rock,70,artist,spotify:artist:1mfDfLsMxYcOOZkzBxvSVW
+1737,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Blake Shelton,6688147,contemporary country; country; country road; oklahoma country,71,artist,spotify:artist:1UTPBmNbXNTittyMJrNkvw
+1738,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Michael Ray,435676,contemporary country; country; country pop; country road; modern country rock,57,artist,spotify:artist:6ghiFYcwn2Vzl6K50U0UPz
+1739,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk,Kane Brown,4388577,black americana; contemporary country; country; country road,76,artist,spotify:artist:3oSJ7TBVCWMDMiYjXNiCKE
+1760,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Jamie O'Neal,121834,contemporary country; country; country dawn; country road,42,artist,spotify:artist:6sQVeggRv1AhrMzuCjhCZe
+1761,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+1762,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Wynonna,419805,country; country dawn; country rock,49,artist,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1
+1763,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Trisha Yearwood,1066957,contemporary country; country; country dawn; country road,60,artist,spotify:artist:3XlIhgydjvC4EniPFZT20j
+1764,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Chely Wright,123495,country; country dawn; country rock; queer country,38,artist,spotify:artist:1aSIXmBKKrEVIbGLwhedIe
+1765,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Lila McCann,90898,country; country dawn,29,artist,spotify:artist:7F7zi7OcJYBOmSFZIYYFCR
+1766,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Sherrié Austin,32300,country; country dawn,25,artist,spotify:artist:73KwO09942aGUnNO7bZiGa
+1767,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,The Kinleys,34883,country; country dawn,20,artist,spotify:artist:54WwKfYhkYzFRtynSgtTw2
+1768,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Lorrie Morgan,360069,country; country dawn; country rock,47,artist,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt
+1769,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Rebecca Lynn Howard,31693,country; country dawn,29,artist,spotify:artist:12bBoCZdPZbBEq1xHT0heD
+1770,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Jessica Andrews,75959,country; country dawn,43,artist,spotify:artist:5rNhVm2CnqiO5Lv4Dt2lck
+1771,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Cyndi Thomson,31522,country; country dawn,29,artist,spotify:artist:1SlB319k1toEaGunEFn6yq
+1772,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Kellie Coffey,35388,country; country dawn; oklahoma country,28,artist,spotify:artist:5I83RQZnnynCnohkLJ8vot
+1773,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Trick Pony,170510,contemporary country; country; country dawn; country road,37,artist,spotify:artist:1Tdrtr2WwDDde01GJllidM
+1774,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Deana Carter,449774,contemporary country; country; country dawn; country road,55,artist,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt
+1775,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,SHeDAISY,321265,contemporary country; country; country dawn; country road,42,artist,spotify:artist:2qFe0FyUMK8XXoyOsfYJr2
+1776,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Suzy Bogguss,102391,country; country rock,43,artist,spotify:artist:13YoXxZt6SLg96dQE1vkHy
+1777,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Carolyn Dawn Johnson,49686,alberta country; canadian country; country; country dawn,30,artist,spotify:artist:0SwVn4s8PdhY9XQhi9SetC
+1778,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Terri Clark,483173,alberta country; canadian contemporary country; canadian country; contemporary country; country; country dawn; country road,49,artist,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC
+1779,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO,Patty Loveless,372811,country; country dawn; country rock; kentucky roots,53,artist,spotify:artist:6SFUC6ORDCIBqPssCBpeHT
+1780,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Jason Michael Carroll,316652,contemporary country; country; country pop; country road; modern country rock,45,artist,spotify:artist:6vgqbvuLEUcrg7SB1kRTYE
+1781,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Montgomery Gentry,1311718,contemporary country; country; country road; modern country rock; redneck,60,artist,spotify:artist:3bGXaFVQLASmDMdjjeJr8a
+1782,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Trace Adkins,2341921,contemporary country; country; country road,62,artist,spotify:artist:79FMDwzZQxHgSkIYBl3ODU
+1783,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Chris Cagle,844012,contemporary country; country; country road; modern country rock,55,artist,spotify:artist:1zhIzONVRlTfD1VQRauHMl
+1784,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Phil Vassar,314005,contemporary country; country; country road; modern country rock,47,artist,spotify:artist:1XhhO2dTs2fKyhILj0aam6
+1785,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Josh Gracin,224012,contemporary country; country; country pop; country road; modern country rock,49,artist,spotify:artist:1456WwI15Lm9CktCzkLZvm
+1786,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Trent Tomlinson,200179,contemporary country; country; country pop; country road; modern country rock; redneck,46,artist,spotify:artist:1Zn69emN3uZsF6YwCrkgYp
+1787,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+1788,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Emerson Drive,253115,alberta country; canadian contemporary country; canadian country; contemporary country; country; country road; modern country rock,45,artist,spotify:artist:1efrXlPhLKv7PvgUxVcqIS
+1789,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Keith Anderson,355421,contemporary country; country; country road; modern country rock; oklahoma country,48,artist,spotify:artist:4AgQTHagFdBq8VL791lSXz
+1790,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Gary Allan,996142,contemporary country; country; country road; country rock; modern country rock,60,artist,spotify:artist:37W8SKV5Vc8lcGtdyWCA5m
+1791,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+1792,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Joe Nichols,703158,arkansas country; contemporary country; country; country road; modern country rock,59,artist,spotify:artist:4aJTB79uwT4sP0Nb8QGWHc
+1793,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Lonestar,1266616,contemporary country; country; country road,60,artist,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK
+1794,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Darryl Worley,212229,contemporary country; country; country road; country rock; modern country rock,46,artist,spotify:artist:4zIBkSJcqRp4ADuFI94WvO
+1795,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Big & Rich,1100393,contemporary country; country; country road; modern country rock,58,artist,spotify:artist:0oBEeN6BCxEgMogzThqrPf
+1796,spotify:artist:6ktyNEnEukKzskQEiXgCFD,David Lee Murphy,285255,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:78OAtwN3XpjMcjibnF2Kw5
+1797,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+1798,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Tracy Byrd,689003,contemporary country; country; country road; country rock,58,artist,spotify:artist:0xxJO75NeIAF5jYruLYIDT
+1799,spotify:artist:6ktyNEnEukKzskQEiXgCFD,Mark Wills,298815,contemporary country; country; country road,51,artist,spotify:artist:0dlwjJe4kg9TgOMN184bJF
+1800,spotify:artist:738OS3zrCO782uDiUN9pet,Jo Dee Messina,682194,contemporary country; country; country dawn,59,artist,spotify:artist:3ltFy7g6KKQPPttsdOMlq3
+1801,spotify:artist:738OS3zrCO782uDiUN9pet,Jamie O'Neal,121834,contemporary country; country; country dawn; country road,42,artist,spotify:artist:6sQVeggRv1AhrMzuCjhCZe
+1802,spotify:artist:738OS3zrCO782uDiUN9pet,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+1803,spotify:artist:738OS3zrCO782uDiUN9pet,Trisha Yearwood,1066957,contemporary country; country; country dawn; country road,60,artist,spotify:artist:3XlIhgydjvC4EniPFZT20j
+1804,spotify:artist:738OS3zrCO782uDiUN9pet,Deana Carter,449774,contemporary country; country; country dawn; country road,55,artist,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt
+1805,spotify:artist:738OS3zrCO782uDiUN9pet,SHeDAISY,321265,contemporary country; country; country dawn; country road,42,artist,spotify:artist:2qFe0FyUMK8XXoyOsfYJr2
+1806,spotify:artist:738OS3zrCO782uDiUN9pet,Terri Clark,483173,alberta country; canadian contemporary country; canadian country; contemporary country; country; country dawn; country road,49,artist,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC
+1807,spotify:artist:738OS3zrCO782uDiUN9pet,Martina McBride,1205753,contemporary country; country; country dawn; country road,58,artist,spotify:artist:3P33qFNGBVXl86yQYWspFj
+1808,spotify:artist:738OS3zrCO782uDiUN9pet,Mindy McCready,274333,country; country dawn,41,artist,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO
+1809,spotify:artist:738OS3zrCO782uDiUN9pet,Sara Evans,1041358,contemporary country; country; country dawn; country gospel; country road,56,artist,spotify:artist:7qvsLYsYP0MHD7jkdv6DAG
+1810,spotify:artist:738OS3zrCO782uDiUN9pet,Lorrie Morgan,360069,country; country dawn; country rock,47,artist,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt
+1811,spotify:artist:738OS3zrCO782uDiUN9pet,Patty Loveless,372811,country; country dawn; country rock; kentucky roots,53,artist,spotify:artist:6SFUC6ORDCIBqPssCBpeHT
+1812,spotify:artist:738OS3zrCO782uDiUN9pet,Chely Wright,123495,country; country dawn; country rock; queer country,38,artist,spotify:artist:1aSIXmBKKrEVIbGLwhedIe
+1813,spotify:artist:738OS3zrCO782uDiUN9pet,Wynonna,419805,country; country dawn; country rock,49,artist,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1
+1814,spotify:artist:738OS3zrCO782uDiUN9pet,Julie Roberts,138352,contemporary country; country; country dawn; country road,44,artist,spotify:artist:5sXhYkm9PpLn5R70U2T6Ba
+1815,spotify:artist:738OS3zrCO782uDiUN9pet,Suzy Bogguss,102391,country; country rock,43,artist,spotify:artist:13YoXxZt6SLg96dQE1vkHy
+1816,spotify:artist:738OS3zrCO782uDiUN9pet,Kathy Mattea,114260,country; country rock,46,artist,spotify:artist:7ndzHjxbErIwvwnEUewMWe
+1817,spotify:artist:738OS3zrCO782uDiUN9pet,Kellie Pickler,830513,contemporary country; country; country dawn; country road,45,artist,spotify:artist:021hNAnkFIbyFyL97br6NB
+1818,spotify:artist:738OS3zrCO782uDiUN9pet,Tanya Tucker,553038,country; country dawn; country rock; outlaw country,54,artist,spotify:artist:7dmeVSH4lJqxXU7C87dKIB
+1819,spotify:artist:738OS3zrCO782uDiUN9pet,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+1960,spotify:artist:1By9QBFnjZAoI83BZppHlt,Josh Turner,2434333,contemporary country; country; country road,65,artist,spotify:artist:7vCtweS8UVAXTyau2j0rDT
+1961,spotify:artist:1By9QBFnjZAoI83BZppHlt,Justin Moore,1615054,arkansas country; contemporary country; country; country road,65,artist,spotify:artist:30e8DmahrEamvLbFRPdWmk
+1962,spotify:artist:1By9QBFnjZAoI83BZppHlt,Jake Owen,1789769,contemporary country; country; country road,66,artist,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT
+1963,spotify:artist:1By9QBFnjZAoI83BZppHlt,David Nail,365246,contemporary country; country; country road; modern country rock,55,artist,spotify:artist:4DZGvSv2oMkBUnPz67E6z6
+1964,spotify:artist:1By9QBFnjZAoI83BZppHlt,Rodney Atkins,1785091,contemporary country; country; country road,62,artist,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2
+1965,spotify:artist:1By9QBFnjZAoI83BZppHlt,Eric Church,3540980,contemporary country; country; country road,71,artist,spotify:artist:2IvkS5MXK0vPGnwyJsrEyV
+1966,spotify:artist:1By9QBFnjZAoI83BZppHlt,Kip Moore,1165131,contemporary country; country; country road; modern country rock,63,artist,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM
+1967,spotify:artist:1By9QBFnjZAoI83BZppHlt,Jason Aldean,5614980,contemporary country; country; country road,75,artist,spotify:artist:3FfvYsEGaIb52QPXhg4DcH
+1968,spotify:artist:1By9QBFnjZAoI83BZppHlt,Blake Shelton,6688147,contemporary country; country; country road; oklahoma country,71,artist,spotify:artist:1UTPBmNbXNTittyMJrNkvw
+1969,spotify:artist:1By9QBFnjZAoI83BZppHlt,Lee Brice,1830634,contemporary country; country; country road,71,artist,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk
+1970,spotify:artist:1By9QBFnjZAoI83BZppHlt,Brad Paisley,2417664,contemporary country; country; country road,66,artist,spotify:artist:13YmWQJFwgZrd4bf5IjMY4
+1971,spotify:artist:1By9QBFnjZAoI83BZppHlt,Brantley Gilbert,2682235,contemporary country; country; country road; modern country rock,67,artist,spotify:artist:5q8HGNo0BjLWaTAhRtbwxa
+1972,spotify:artist:1By9QBFnjZAoI83BZppHlt,Jon Pardi,1488463,contemporary country; country; country road; modern country rock,73,artist,spotify:artist:4MoAOfV4ROWofLG3a3hhBN
+1973,spotify:artist:1By9QBFnjZAoI83BZppHlt,Keith Urban,4884203,australian country; australian pop; contemporary country; country; country road,71,artist,spotify:artist:0u2FHSq3ln94y5Q57xazwf
+1974,spotify:artist:1By9QBFnjZAoI83BZppHlt,Luke Bryan,7678662,contemporary country; country; country road,77,artist,spotify:artist:0BvkDsjIUla7X0k6CSWh1I
+1975,spotify:artist:1By9QBFnjZAoI83BZppHlt,Craig Morgan,934150,contemporary country; country; country road; modern country rock,57,artist,spotify:artist:6ktyNEnEukKzskQEiXgCFD
+1976,spotify:artist:1By9QBFnjZAoI83BZppHlt,Zac Brown Band,3312139,contemporary country; country; country road; modern country rock,73,artist,spotify:artist:6yJCxee7QumYr820xdIsjo
+1977,spotify:artist:1By9QBFnjZAoI83BZppHlt,Brothers Osborne,1061384,contemporary country; country; country road; modern southern rock,64,artist,spotify:artist:39NR3AUhpbbqKM33vWn2fp
+1978,spotify:artist:1By9QBFnjZAoI83BZppHlt,Randy Houser,931063,contemporary country; country; country road; modern country rock,61,artist,spotify:artist:56x8mYvS3cyDGAi8N2FxbB
+1979,spotify:artist:1By9QBFnjZAoI83BZppHlt,Chris Young,2643234,contemporary country; country; country road,67,artist,spotify:artist:4BYxqVkZyFjtik7crYLg5Q
+1980,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Josh Turner,2434333,contemporary country; country; country road,65,artist,spotify:artist:7vCtweS8UVAXTyau2j0rDT
+1981,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Jake Owen,1789769,contemporary country; country; country road,66,artist,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT
+1982,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Justin Moore,1615054,arkansas country; contemporary country; country; country road,65,artist,spotify:artist:30e8DmahrEamvLbFRPdWmk
+1983,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Brantley Gilbert,2682235,contemporary country; country; country road; modern country rock,67,artist,spotify:artist:5q8HGNo0BjLWaTAhRtbwxa
+1984,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Blake Shelton,6688147,contemporary country; country; country road; oklahoma country,71,artist,spotify:artist:1UTPBmNbXNTittyMJrNkvw
+1985,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Billy Currington,2416378,contemporary country; country; country road,66,artist,spotify:artist:1By9QBFnjZAoI83BZppHlt
+1986,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Eric Church,3540980,contemporary country; country; country road,71,artist,spotify:artist:2IvkS5MXK0vPGnwyJsrEyV
+1987,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Brad Paisley,2417664,contemporary country; country; country road,66,artist,spotify:artist:13YmWQJFwgZrd4bf5IjMY4
+1988,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Kip Moore,1165131,contemporary country; country; country road; modern country rock,63,artist,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM
+1989,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,David Nail,365246,contemporary country; country; country road; modern country rock,55,artist,spotify:artist:4DZGvSv2oMkBUnPz67E6z6
+1990,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Chris Cagle,844012,contemporary country; country; country road; modern country rock,55,artist,spotify:artist:1zhIzONVRlTfD1VQRauHMl
+1991,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Craig Morgan,934150,contemporary country; country; country road; modern country rock,57,artist,spotify:artist:6ktyNEnEukKzskQEiXgCFD
+1992,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Montgomery Gentry,1311718,contemporary country; country; country road; modern country rock; redneck,60,artist,spotify:artist:3bGXaFVQLASmDMdjjeJr8a
+1993,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Jason Aldean,5614980,contemporary country; country; country road,75,artist,spotify:artist:3FfvYsEGaIb52QPXhg4DcH
+1994,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Trace Adkins,2341921,contemporary country; country; country road,62,artist,spotify:artist:79FMDwzZQxHgSkIYBl3ODU
+1995,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Lee Brice,1830634,contemporary country; country; country road,71,artist,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk
+1996,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Randy Houser,931063,contemporary country; country; country road; modern country rock,61,artist,spotify:artist:56x8mYvS3cyDGAi8N2FxbB
+1997,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Jerrod Niemann,477264,contemporary country; country; country road; modern country rock,53,artist,spotify:artist:0RKP52f5PNDCRZ9Luq2Sr7
+1998,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Easton Corbin,887045,contemporary country; country; country road; modern country rock,60,artist,spotify:artist:070kGpqtESdDsLb3gdMIyx
+1999,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2,Joe Nichols,703158,arkansas country; contemporary country; country; country road; modern country rock,59,artist,spotify:artist:4aJTB79uwT4sP0Nb8QGWHc
+2020,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Justin Moore,1615054,arkansas country; contemporary country; country; country road,65,artist,spotify:artist:30e8DmahrEamvLbFRPdWmk
+2021,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Jake Owen,1789769,contemporary country; country; country road,66,artist,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT
+2022,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Brothers Osborne,1061384,contemporary country; country; country road; modern southern rock,64,artist,spotify:artist:39NR3AUhpbbqKM33vWn2fp
+2023,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,David Nail,365246,contemporary country; country; country road; modern country rock,55,artist,spotify:artist:4DZGvSv2oMkBUnPz67E6z6
+2024,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Brantley Gilbert,2682235,contemporary country; country; country road; modern country rock,67,artist,spotify:artist:5q8HGNo0BjLWaTAhRtbwxa
+2025,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Michael Ray,435676,contemporary country; country; country pop; country road; modern country rock,57,artist,spotify:artist:6ghiFYcwn2Vzl6K50U0UPz
+2026,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Jon Pardi,1488463,contemporary country; country; country road; modern country rock,73,artist,spotify:artist:4MoAOfV4ROWofLG3a3hhBN
+2027,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Canaan Smith,321948,contemporary country; country; country pop; country road; modern country rock,52,artist,spotify:artist:0q2lY1ZzFckzciuoMtUvck
+2028,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Eric Church,3540980,contemporary country; country; country road,71,artist,spotify:artist:2IvkS5MXK0vPGnwyJsrEyV
+2029,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Rodney Atkins,1785091,contemporary country; country; country road,62,artist,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2
+2030,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Billy Currington,2416378,contemporary country; country; country road,66,artist,spotify:artist:1By9QBFnjZAoI83BZppHlt
+2031,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,James Barker Band,125506,canadian contemporary country; canadian country; contemporary country; country; country road; modern country rock,54,artist,spotify:artist:54lUDwCk35ihJuK3yJCqHA
+2032,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Frankie Ballard,341714,contemporary country; country; country road; modern country rock,52,artist,spotify:artist:0dvKgSdNB2U1gfp6ZcekYi
+2033,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Dylan Scott,1257713,contemporary country; country; country road,65,artist,spotify:artist:78YqeIji3mgAS2K1Maca6x
+2034,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Dustin Lynch,1913105,contemporary country; country; country road; modern country rock,67,artist,spotify:artist:1dID9zgn0OV0Y8ud7Mh2tS
+2035,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Eric Paslay,443268,contemporary country; country; country pop; country road; modern country rock,52,artist,spotify:artist:4TONBKcqVR1LmPdfJxvkMU
+2036,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Tyler Farr,682778,contemporary country; country; country pop; country road; modern country rock; redneck,52,artist,spotify:artist:3vHV92ecrylnUHDM4d2MtC
+2037,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Cole Swindell,1903417,contemporary country; country; country road; modern country rock,70,artist,spotify:artist:1mfDfLsMxYcOOZkzBxvSVW
+2038,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Randy Houser,931063,contemporary country; country; country road; modern country rock,61,artist,spotify:artist:56x8mYvS3cyDGAi8N2FxbB
+2039,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM,Lee Brice,1830634,contemporary country; country; country road,71,artist,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk
+2060,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Kip Moore,1165131,contemporary country; country; country road; modern country rock,63,artist,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM
+2061,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Justin Moore,1615054,arkansas country; contemporary country; country; country road,65,artist,spotify:artist:30e8DmahrEamvLbFRPdWmk
+2062,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Brantley Gilbert,2682235,contemporary country; country; country road; modern country rock,67,artist,spotify:artist:5q8HGNo0BjLWaTAhRtbwxa
+2063,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Billy Currington,2416378,contemporary country; country; country road,66,artist,spotify:artist:1By9QBFnjZAoI83BZppHlt
+2064,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Jon Pardi,1488463,contemporary country; country; country road; modern country rock,73,artist,spotify:artist:4MoAOfV4ROWofLG3a3hhBN
+2065,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Rodney Atkins,1785091,contemporary country; country; country road,62,artist,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2
+2066,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Lee Brice,1830634,contemporary country; country; country road,71,artist,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk
+2067,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,David Nail,365246,contemporary country; country; country road; modern country rock,55,artist,spotify:artist:4DZGvSv2oMkBUnPz67E6z6
+2068,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Eric Church,3540980,contemporary country; country; country road,71,artist,spotify:artist:2IvkS5MXK0vPGnwyJsrEyV
+2069,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Brothers Osborne,1061384,contemporary country; country; country road; modern southern rock,64,artist,spotify:artist:39NR3AUhpbbqKM33vWn2fp
+2070,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Florida Georgia Line,4937714,contemporary country; country; country pop; country road; modern country rock,76,artist,spotify:artist:3b8QkneNDz4JHKKKlLgYZg
+2071,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Dustin Lynch,1913105,contemporary country; country; country road; modern country rock,67,artist,spotify:artist:1dID9zgn0OV0Y8ud7Mh2tS
+2072,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Jason Aldean,5614980,contemporary country; country; country road,75,artist,spotify:artist:3FfvYsEGaIb52QPXhg4DcH
+2073,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Blake Shelton,6688147,contemporary country; country; country road; oklahoma country,71,artist,spotify:artist:1UTPBmNbXNTittyMJrNkvw
+2074,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Cole Swindell,1903417,contemporary country; country; country road; modern country rock,70,artist,spotify:artist:1mfDfLsMxYcOOZkzBxvSVW
+2075,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Thomas Rhett,4244044,contemporary country; country; country road,74,artist,spotify:artist:6x2LnllRG5uGarZMsD4iO8
+2076,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Michael Ray,435676,contemporary country; country; country pop; country road; modern country rock,57,artist,spotify:artist:6ghiFYcwn2Vzl6K50U0UPz
+2077,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Dylan Scott,1257713,contemporary country; country; country road,65,artist,spotify:artist:78YqeIji3mgAS2K1Maca6x
+2078,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Luke Bryan,7678662,contemporary country; country; country road,77,artist,spotify:artist:0BvkDsjIUla7X0k6CSWh1I
+2079,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT,Keith Urban,4884203,australian country; australian pop; contemporary country; country; country road,71,artist,spotify:artist:0u2FHSq3ln94y5Q57xazwf
+2080,spotify:artist:30e8DmahrEamvLbFRPdWmk,Kip Moore,1165131,contemporary country; country; country road; modern country rock,63,artist,spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM
+2081,spotify:artist:30e8DmahrEamvLbFRPdWmk,Brantley Gilbert,2682235,contemporary country; country; country road; modern country rock,67,artist,spotify:artist:5q8HGNo0BjLWaTAhRtbwxa
+2082,spotify:artist:30e8DmahrEamvLbFRPdWmk,Jake Owen,1789769,contemporary country; country; country road,66,artist,spotify:artist:1n2pb9Tsfe4SwAjmUac6YT
+2083,spotify:artist:30e8DmahrEamvLbFRPdWmk,David Nail,365246,contemporary country; country; country road; modern country rock,55,artist,spotify:artist:4DZGvSv2oMkBUnPz67E6z6
+2084,spotify:artist:30e8DmahrEamvLbFRPdWmk,Rodney Atkins,1785091,contemporary country; country; country road,62,artist,spotify:artist:2qgvmDsc4jrqbAbjq1HGM2
+2085,spotify:artist:30e8DmahrEamvLbFRPdWmk,Billy Currington,2416378,contemporary country; country; country road,66,artist,spotify:artist:1By9QBFnjZAoI83BZppHlt
+2086,spotify:artist:30e8DmahrEamvLbFRPdWmk,Jon Pardi,1488463,contemporary country; country; country road; modern country rock,73,artist,spotify:artist:4MoAOfV4ROWofLG3a3hhBN
+2087,spotify:artist:30e8DmahrEamvLbFRPdWmk,Brothers Osborne,1061384,contemporary country; country; country road; modern southern rock,64,artist,spotify:artist:39NR3AUhpbbqKM33vWn2fp
+2088,spotify:artist:30e8DmahrEamvLbFRPdWmk,Lee Brice,1830634,contemporary country; country; country road,71,artist,spotify:artist:5Zq7R5qmi58ByYyBQTlNuk
+2089,spotify:artist:30e8DmahrEamvLbFRPdWmk,Eric Church,3540980,contemporary country; country; country road,71,artist,spotify:artist:2IvkS5MXK0vPGnwyJsrEyV
+2090,spotify:artist:30e8DmahrEamvLbFRPdWmk,Michael Ray,435676,contemporary country; country; country pop; country road; modern country rock,57,artist,spotify:artist:6ghiFYcwn2Vzl6K50U0UPz
+2091,spotify:artist:30e8DmahrEamvLbFRPdWmk,Chris Cagle,844012,contemporary country; country; country road; modern country rock,55,artist,spotify:artist:1zhIzONVRlTfD1VQRauHMl
+2092,spotify:artist:30e8DmahrEamvLbFRPdWmk,Dustin Lynch,1913105,contemporary country; country; country road; modern country rock,67,artist,spotify:artist:1dID9zgn0OV0Y8ud7Mh2tS
+2093,spotify:artist:30e8DmahrEamvLbFRPdWmk,Randy Houser,931063,contemporary country; country; country road; modern country rock,61,artist,spotify:artist:56x8mYvS3cyDGAi8N2FxbB
+2094,spotify:artist:30e8DmahrEamvLbFRPdWmk,Easton Corbin,887045,contemporary country; country; country road; modern country rock,60,artist,spotify:artist:070kGpqtESdDsLb3gdMIyx
+2095,spotify:artist:30e8DmahrEamvLbFRPdWmk,Josh Turner,2434333,contemporary country; country; country road,65,artist,spotify:artist:7vCtweS8UVAXTyau2j0rDT
+2096,spotify:artist:30e8DmahrEamvLbFRPdWmk,Frankie Ballard,341714,contemporary country; country; country road; modern country rock,52,artist,spotify:artist:0dvKgSdNB2U1gfp6ZcekYi
+2097,spotify:artist:30e8DmahrEamvLbFRPdWmk,Tyler Farr,682778,contemporary country; country; country pop; country road; modern country rock; redneck,52,artist,spotify:artist:3vHV92ecrylnUHDM4d2MtC
+2098,spotify:artist:30e8DmahrEamvLbFRPdWmk,Canaan Smith,321948,contemporary country; country; country pop; country road; modern country rock,52,artist,spotify:artist:0q2lY1ZzFckzciuoMtUvck
+2099,spotify:artist:30e8DmahrEamvLbFRPdWmk,Craig Morgan,934150,contemporary country; country; country road; modern country rock,57,artist,spotify:artist:6ktyNEnEukKzskQEiXgCFD
+2120,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Lee Ann Womack,655006,contemporary country; country; country dawn,55,artist,spotify:artist:738OS3zrCO782uDiUN9pet
+2121,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Trisha Yearwood,1066957,contemporary country; country; country dawn; country road,60,artist,spotify:artist:3XlIhgydjvC4EniPFZT20j
+2122,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Jamie O'Neal,121834,contemporary country; country; country dawn; country road,42,artist,spotify:artist:6sQVeggRv1AhrMzuCjhCZe
+2123,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+2124,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Deana Carter,449774,contemporary country; country; country dawn; country road,55,artist,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt
+2125,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Martina McBride,1205753,contemporary country; country; country dawn; country road,58,artist,spotify:artist:3P33qFNGBVXl86yQYWspFj
+2126,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Sara Evans,1041358,contemporary country; country; country dawn; country gospel; country road,56,artist,spotify:artist:7qvsLYsYP0MHD7jkdv6DAG
+2127,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Terri Clark,483173,alberta country; canadian contemporary country; canadian country; contemporary country; country; country dawn; country road,49,artist,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC
+2128,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Patty Loveless,372811,country; country dawn; country rock; kentucky roots,53,artist,spotify:artist:6SFUC6ORDCIBqPssCBpeHT
+2129,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Faith Hill,1620593,contemporary country; country; country dawn; country road; dance pop; pop rock,63,artist,spotify:artist:25NQNriVT2YbSW80ILRWJa
+2130,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2131,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,SHeDAISY,321265,contemporary country; country; country dawn; country road,42,artist,spotify:artist:2qFe0FyUMK8XXoyOsfYJr2
+2132,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Wynonna,419805,country; country dawn; country rock,49,artist,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1
+2133,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2134,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Lorrie Morgan,360069,country; country dawn; country rock,47,artist,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt
+2135,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Mindy McCready,274333,country; country dawn,41,artist,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO
+2136,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Reba McEntire,1743943,contemporary country; country; country dawn; oklahoma country,62,artist,spotify:artist:02rd0anEWfMtF7iMku9uor
+2137,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Gretchen Wilson,811283,contemporary country; country; country dawn; country road,56,artist,spotify:artist:0IdYRFTswLdsGwSnzOaGNF
+2138,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Kellie Pickler,830513,contemporary country; country; country dawn; country road,45,artist,spotify:artist:021hNAnkFIbyFyL97br6NB
+2139,spotify:artist:3ltFy7g6KKQPPttsdOMlq3,Mark Wills,298815,contemporary country; country; country road,51,artist,spotify:artist:0dlwjJe4kg9TgOMN184bJF
+2140,spotify:artist:50hFWG3MaUUX5phNrrVc97,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+2141,spotify:artist:50hFWG3MaUUX5phNrrVc97,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+2142,spotify:artist:50hFWG3MaUUX5phNrrVc97,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2143,spotify:artist:50hFWG3MaUUX5phNrrVc97,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2144,spotify:artist:50hFWG3MaUUX5phNrrVc97,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+2145,spotify:artist:50hFWG3MaUUX5phNrrVc97,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+2146,spotify:artist:50hFWG3MaUUX5phNrrVc97,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2147,spotify:artist:50hFWG3MaUUX5phNrrVc97,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+2148,spotify:artist:50hFWG3MaUUX5phNrrVc97,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+2149,spotify:artist:50hFWG3MaUUX5phNrrVc97,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+2150,spotify:artist:50hFWG3MaUUX5phNrrVc97,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+2151,spotify:artist:50hFWG3MaUUX5phNrrVc97,Confederate Railroad,363372,country; country road; country rock; southern rock,47,artist,spotify:artist:1YPIe9qIMa99O0a0OW47Be
+2152,spotify:artist:50hFWG3MaUUX5phNrrVc97,Restless Heart,209401,country; country rock,47,artist,spotify:artist:0FcmRWJUfnCuwoXE1H2b0H
+2153,spotify:artist:50hFWG3MaUUX5phNrrVc97,Ricky Van Shelton,331902,classic country pop; country; country rock,46,artist,spotify:artist:4uaaRGr9KMfYPDaUnBIngc
+2154,spotify:artist:50hFWG3MaUUX5phNrrVc97,Clint Black,858022,country; country road; country rock,58,artist,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt
+2155,spotify:artist:50hFWG3MaUUX5phNrrVc97,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+2156,spotify:artist:50hFWG3MaUUX5phNrrVc97,Doug Stone,176396,country; country road; country rock,45,artist,spotify:artist:4epBFW4UHEmgjIK5xOrBhk
+2157,spotify:artist:50hFWG3MaUUX5phNrrVc97,Mel McDaniel,164663,country; country rock; oklahoma country,55,artist,spotify:artist:1fMdO9vLUd6wW4jbMeNiup
+2158,spotify:artist:50hFWG3MaUUX5phNrrVc97,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+2159,spotify:artist:50hFWG3MaUUX5phNrrVc97,Travis Tritt,1174907,contemporary country; country; country road; country rock; outlaw country,64,artist,spotify:artist:2M4Yt7oKGoYd0wqU44k4i2
+2300,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+2301,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+2302,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+2303,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2304,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+2305,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Mel McDaniel,164663,country; country rock; oklahoma country,55,artist,spotify:artist:1fMdO9vLUd6wW4jbMeNiup
+2306,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Sawyer Brown,481613,country; country road; country rock,52,artist,spotify:artist:50hFWG3MaUUX5phNrrVc97
+2307,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+2308,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2309,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Ricky Van Shelton,331902,classic country pop; country; country rock,46,artist,spotify:artist:4uaaRGr9KMfYPDaUnBIngc
+2310,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2311,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+2312,spotify:artist:1YPIe9qIMa99O0a0OW47Be,The Kentucky Headhunters,190539,country; country rock; kentucky roots; southern rock,47,artist,spotify:artist:2sgj794K3UaW1ApX28ZUhY
+2313,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+2314,spotify:artist:1YPIe9qIMa99O0a0OW47Be,David Ball,94812,country; country road; country rock,45,artist,spotify:artist:7y9COUDxusQXRjW95vOubE
+2315,spotify:artist:1YPIe9qIMa99O0a0OW47Be,John Anderson,417285,country; country road; country rock,54,artist,spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+2316,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Doug Stone,176396,country; country road; country rock,45,artist,spotify:artist:4epBFW4UHEmgjIK5xOrBhk
+2317,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Lee Roy Parnell,68399,country; country road; country rock,39,artist,spotify:artist:3bW6mQczkt1r8tnWIDeBVJ
+2318,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Doug Supernaw,76311,country; country road; country rock,34,artist,spotify:artist:0OraDGrDGEuqJ2d7250K1i
+2319,spotify:artist:1YPIe9qIMa99O0a0OW47Be,Clint Black,858022,country; country road; country rock,58,artist,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt
+2320,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+2321,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2322,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2323,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+2324,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+2325,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2326,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+2327,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+2328,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Sawyer Brown,481613,country; country road; country rock,52,artist,spotify:artist:50hFWG3MaUUX5phNrrVc97
+2329,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+2330,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+2331,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Hal Ketchum,88326,country; country rock,47,artist,spotify:artist:6Pys4xsyQVA5ZjkN2Ka2S7
+2332,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Confederate Railroad,363372,country; country road; country rock; southern rock,47,artist,spotify:artist:1YPIe9qIMa99O0a0OW47Be
+2333,spotify:artist:5CCf77sKGlTdfIiIDaVScj,BlackHawk,223941,country; country road; country rock,46,artist,spotify:artist:4mOt6H7OnuqLnQrm1Bboc6
+2334,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+2335,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Billy Dean,113137,bluegrass gospel; country; country road; country rock,45,artist,spotify:artist:3cMyqwpNT2D8f0WuaRzzZX
+2336,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Restless Heart,209401,country; country rock,47,artist,spotify:artist:0FcmRWJUfnCuwoXE1H2b0H
+2337,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+2338,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Doug Stone,176396,country; country road; country rock,45,artist,spotify:artist:4epBFW4UHEmgjIK5xOrBhk
+2339,spotify:artist:5CCf77sKGlTdfIiIDaVScj,Clint Black,858022,country; country road; country rock,58,artist,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt
+2340,spotify:artist:3tkZthBATD0S45hm1DmB2O,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+2341,spotify:artist:3tkZthBATD0S45hm1DmB2O,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+2342,spotify:artist:3tkZthBATD0S45hm1DmB2O,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2343,spotify:artist:3tkZthBATD0S45hm1DmB2O,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2344,spotify:artist:3tkZthBATD0S45hm1DmB2O,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2345,spotify:artist:3tkZthBATD0S45hm1DmB2O,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+2346,spotify:artist:3tkZthBATD0S45hm1DmB2O,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+2347,spotify:artist:3tkZthBATD0S45hm1DmB2O,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+2348,spotify:artist:3tkZthBATD0S45hm1DmB2O,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+2349,spotify:artist:3tkZthBATD0S45hm1DmB2O,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+2350,spotify:artist:3tkZthBATD0S45hm1DmB2O,Sawyer Brown,481613,country; country road; country rock,52,artist,spotify:artist:50hFWG3MaUUX5phNrrVc97
+2351,spotify:artist:3tkZthBATD0S45hm1DmB2O,Confederate Railroad,363372,country; country road; country rock; southern rock,47,artist,spotify:artist:1YPIe9qIMa99O0a0OW47Be
+2352,spotify:artist:3tkZthBATD0S45hm1DmB2O,Randy Travis,1443156,country; country gospel; country road; country rock,64,artist,spotify:artist:1pTuR132U5b4Rizal2Pr7m
+2353,spotify:artist:3tkZthBATD0S45hm1DmB2O,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+2354,spotify:artist:3tkZthBATD0S45hm1DmB2O,Tracy Byrd,689003,contemporary country; country; country road; country rock,58,artist,spotify:artist:0xxJO75NeIAF5jYruLYIDT
+2355,spotify:artist:3tkZthBATD0S45hm1DmB2O,Clint Black,858022,country; country road; country rock,58,artist,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt
+2356,spotify:artist:3tkZthBATD0S45hm1DmB2O,Doug Stone,176396,country; country road; country rock,45,artist,spotify:artist:4epBFW4UHEmgjIK5xOrBhk
+2357,spotify:artist:3tkZthBATD0S45hm1DmB2O,Ricky Van Shelton,331902,classic country pop; country; country rock,46,artist,spotify:artist:4uaaRGr9KMfYPDaUnBIngc
+2358,spotify:artist:3tkZthBATD0S45hm1DmB2O,Billy Dean,113137,bluegrass gospel; country; country road; country rock,45,artist,spotify:artist:3cMyqwpNT2D8f0WuaRzzZX
+2359,spotify:artist:3tkZthBATD0S45hm1DmB2O,John Anderson,417285,country; country road; country rock,54,artist,spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+2360,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+2361,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2362,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+2363,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+2364,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2365,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+2366,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+2367,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+2368,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+2369,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Sawyer Brown,481613,country; country road; country rock,52,artist,spotify:artist:50hFWG3MaUUX5phNrrVc97
+2370,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+2371,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+2372,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+2373,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Doug Stone,176396,country; country road; country rock,45,artist,spotify:artist:4epBFW4UHEmgjIK5xOrBhk
+2374,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Mark Wills,298815,contemporary country; country; country road,51,artist,spotify:artist:0dlwjJe4kg9TgOMN184bJF
+2375,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Ty Herndon,115381,country; country road; country rock,42,artist,spotify:artist:1Fj0R2t4HaJa3oUe8azB8R
+2376,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Billy Dean,113137,bluegrass gospel; country; country road; country rock,45,artist,spotify:artist:3cMyqwpNT2D8f0WuaRzzZX
+2377,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Trisha Yearwood,1066957,contemporary country; country; country dawn; country road,60,artist,spotify:artist:3XlIhgydjvC4EniPFZT20j
+2378,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,Wynonna,419805,country; country dawn; country rock,49,artist,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1
+2379,spotify:artist:4AwLiAGc1rRLrCepj5rdTI,John Michael Montgomery,880037,contemporary country; country; country road; country rock,60,artist,spotify:artist:7mPcfx7PhnBh6n4HMCd61A
+2380,spotify:artist:69Etpls5a2aATUkB6NInTY,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+2381,spotify:artist:69Etpls5a2aATUkB6NInTY,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+2382,spotify:artist:69Etpls5a2aATUkB6NInTY,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2383,spotify:artist:69Etpls5a2aATUkB6NInTY,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2384,spotify:artist:69Etpls5a2aATUkB6NInTY,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+2385,spotify:artist:69Etpls5a2aATUkB6NInTY,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+2386,spotify:artist:69Etpls5a2aATUkB6NInTY,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+2387,spotify:artist:69Etpls5a2aATUkB6NInTY,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+2388,spotify:artist:69Etpls5a2aATUkB6NInTY,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+2389,spotify:artist:69Etpls5a2aATUkB6NInTY,Phil Vassar,314005,contemporary country; country; country road; modern country rock,47,artist,spotify:artist:1XhhO2dTs2fKyhILj0aam6
+2390,spotify:artist:69Etpls5a2aATUkB6NInTY,David Lee Murphy,285255,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:78OAtwN3XpjMcjibnF2Kw5
+2391,spotify:artist:69Etpls5a2aATUkB6NInTY,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+2392,spotify:artist:69Etpls5a2aATUkB6NInTY,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2393,spotify:artist:69Etpls5a2aATUkB6NInTY,Tracy Byrd,689003,contemporary country; country; country road; country rock,58,artist,spotify:artist:0xxJO75NeIAF5jYruLYIDT
+2394,spotify:artist:69Etpls5a2aATUkB6NInTY,Trace Adkins,2341921,contemporary country; country; country road,62,artist,spotify:artist:79FMDwzZQxHgSkIYBl3ODU
+2395,spotify:artist:69Etpls5a2aATUkB6NInTY,Mark Wills,298815,contemporary country; country; country road,51,artist,spotify:artist:0dlwjJe4kg9TgOMN184bJF
+2396,spotify:artist:69Etpls5a2aATUkB6NInTY,Sawyer Brown,481613,country; country road; country rock,52,artist,spotify:artist:50hFWG3MaUUX5phNrrVc97
+2397,spotify:artist:69Etpls5a2aATUkB6NInTY,Rhett Akins,186773,country; country road,50,artist,spotify:artist:4qivGtDBIkQFLCeduRpi24
+2398,spotify:artist:69Etpls5a2aATUkB6NInTY,Darryl Worley,212229,contemporary country; country; country road; country rock; modern country rock,46,artist,spotify:artist:4zIBkSJcqRp4ADuFI94WvO
+2399,spotify:artist:69Etpls5a2aATUkB6NInTY,Andy Griggs,90565,country; country road,42,artist,spotify:artist:7CyJIUpcWZK2zFM6gKLKvD
+2400,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+2401,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+2402,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+2403,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2404,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2405,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+2406,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+2407,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Ricky Van Shelton,331902,classic country pop; country; country rock,46,artist,spotify:artist:4uaaRGr9KMfYPDaUnBIngc
+2408,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Restless Heart,209401,country; country rock,47,artist,spotify:artist:0FcmRWJUfnCuwoXE1H2b0H
+2409,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Sawyer Brown,481613,country; country road; country rock,52,artist,spotify:artist:50hFWG3MaUUX5phNrrVc97
+2410,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+2411,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Mel McDaniel,164663,country; country rock; oklahoma country,55,artist,spotify:artist:1fMdO9vLUd6wW4jbMeNiup
+2412,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+2413,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Confederate Railroad,363372,country; country road; country rock; southern rock,47,artist,spotify:artist:1YPIe9qIMa99O0a0OW47Be
+2414,spotify:artist:36eTeLNx8ErucrEyRm6JOo,John Anderson,417285,country; country road; country rock,54,artist,spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+2415,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Doug Stone,176396,country; country road; country rock,45,artist,spotify:artist:4epBFW4UHEmgjIK5xOrBhk
+2416,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+2417,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Steve Wariner,134037,country; country road; country rock,46,artist,spotify:artist:45S8rtgQSxj1a0tzCNhSeD
+2418,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Clint Black,858022,country; country road; country rock,58,artist,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt
+2419,spotify:artist:36eTeLNx8ErucrEyRm6JOo,Billy Dean,113137,bluegrass gospel; country; country road; country rock,45,artist,spotify:artist:3cMyqwpNT2D8f0WuaRzzZX
+2420,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+2421,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+2422,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+2423,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2424,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2425,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+2426,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+2427,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2428,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+2429,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+2430,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+2431,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Sawyer Brown,481613,country; country road; country rock,52,artist,spotify:artist:50hFWG3MaUUX5phNrrVc97
+2432,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Doug Stone,176396,country; country road; country rock,45,artist,spotify:artist:4epBFW4UHEmgjIK5xOrBhk
+2433,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+2434,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,John Anderson,417285,country; country road; country rock,54,artist,spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+2435,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,BlackHawk,223941,country; country road; country rock,46,artist,spotify:artist:4mOt6H7OnuqLnQrm1Bboc6
+2436,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Tracy Byrd,689003,contemporary country; country; country road; country rock,58,artist,spotify:artist:0xxJO75NeIAF5jYruLYIDT
+2437,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Confederate Railroad,363372,country; country road; country rock; southern rock,47,artist,spotify:artist:1YPIe9qIMa99O0a0OW47Be
+2438,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Travis Tritt,1174907,contemporary country; country; country road; country rock; outlaw country,64,artist,spotify:artist:2M4Yt7oKGoYd0wqU44k4i2
+2439,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt,Billy Dean,113137,bluegrass gospel; country; country road; country rock,45,artist,spotify:artist:3cMyqwpNT2D8f0WuaRzzZX
+2440,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+2441,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+2442,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2443,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+2444,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+2445,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2446,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2447,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+2448,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+2449,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Tracy Byrd,689003,contemporary country; country; country road; country rock,58,artist,spotify:artist:0xxJO75NeIAF5jYruLYIDT
+2450,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Sawyer Brown,481613,country; country road; country rock,52,artist,spotify:artist:50hFWG3MaUUX5phNrrVc97
+2451,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+2452,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+2453,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Randy Travis,1443156,country; country gospel; country road; country rock,64,artist,spotify:artist:1pTuR132U5b4Rizal2Pr7m
+2454,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Confederate Railroad,363372,country; country road; country rock; southern rock,47,artist,spotify:artist:1YPIe9qIMa99O0a0OW47Be
+2455,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Clint Black,858022,country; country road; country rock,58,artist,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt
+2456,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+2457,spotify:artist:3THMgU4KdL7LlO5TEREs2g,David Lee Murphy,285255,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:78OAtwN3XpjMcjibnF2Kw5
+2458,spotify:artist:3THMgU4KdL7LlO5TEREs2g,Travis Tritt,1174907,contemporary country; country; country road; country rock; outlaw country,64,artist,spotify:artist:2M4Yt7oKGoYd0wqU44k4i2
+2459,spotify:artist:3THMgU4KdL7LlO5TEREs2g,John Anderson,417285,country; country road; country rock,54,artist,spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+2460,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+2461,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+2462,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2463,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+2464,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+2465,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+2466,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2467,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+2468,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2469,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Tracy Byrd,689003,contemporary country; country; country road; country rock,58,artist,spotify:artist:0xxJO75NeIAF5jYruLYIDT
+2470,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+2471,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+2472,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Trace Adkins,2341921,contemporary country; country; country road,62,artist,spotify:artist:79FMDwzZQxHgSkIYBl3ODU
+2473,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Clint Black,858022,country; country road; country rock,58,artist,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt
+2474,spotify:artist:2BQVRw9md4UKcGUrDXABCD,David Lee Murphy,285255,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:78OAtwN3XpjMcjibnF2Kw5
+2475,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Randy Travis,1443156,country; country gospel; country road; country rock,64,artist,spotify:artist:1pTuR132U5b4Rizal2Pr7m
+2476,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Mark Wills,298815,contemporary country; country; country road,51,artist,spotify:artist:0dlwjJe4kg9TgOMN184bJF
+2477,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Phil Vassar,314005,contemporary country; country; country road; modern country rock,47,artist,spotify:artist:1XhhO2dTs2fKyhILj0aam6
+2478,spotify:artist:2BQVRw9md4UKcGUrDXABCD,John Michael Montgomery,880037,contemporary country; country; country road; country rock,60,artist,spotify:artist:7mPcfx7PhnBh6n4HMCd61A
+2479,spotify:artist:2BQVRw9md4UKcGUrDXABCD,Travis Tritt,1174907,contemporary country; country; country road; country rock; outlaw country,64,artist,spotify:artist:2M4Yt7oKGoYd0wqU44k4i2
+2480,spotify:artist:4XwKU420OWVk38vz1KvH3M,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+2481,spotify:artist:4XwKU420OWVk38vz1KvH3M,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+2482,spotify:artist:4XwKU420OWVk38vz1KvH3M,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+2483,spotify:artist:4XwKU420OWVk38vz1KvH3M,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2484,spotify:artist:4XwKU420OWVk38vz1KvH3M,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+2485,spotify:artist:4XwKU420OWVk38vz1KvH3M,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+2486,spotify:artist:4XwKU420OWVk38vz1KvH3M,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2487,spotify:artist:4XwKU420OWVk38vz1KvH3M,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+2488,spotify:artist:4XwKU420OWVk38vz1KvH3M,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2489,spotify:artist:4XwKU420OWVk38vz1KvH3M,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+2490,spotify:artist:4XwKU420OWVk38vz1KvH3M,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+2491,spotify:artist:4XwKU420OWVk38vz1KvH3M,Sawyer Brown,481613,country; country road; country rock,52,artist,spotify:artist:50hFWG3MaUUX5phNrrVc97
+2492,spotify:artist:4XwKU420OWVk38vz1KvH3M,David Lee Murphy,285255,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:78OAtwN3XpjMcjibnF2Kw5
+2493,spotify:artist:4XwKU420OWVk38vz1KvH3M,Tracy Byrd,689003,contemporary country; country; country road; country rock,58,artist,spotify:artist:0xxJO75NeIAF5jYruLYIDT
+2494,spotify:artist:4XwKU420OWVk38vz1KvH3M,Clint Black,858022,country; country road; country rock,58,artist,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt
+2495,spotify:artist:4XwKU420OWVk38vz1KvH3M,David Ball,94812,country; country road; country rock,45,artist,spotify:artist:7y9COUDxusQXRjW95vOubE
+2496,spotify:artist:4XwKU420OWVk38vz1KvH3M,Confederate Railroad,363372,country; country road; country rock; southern rock,47,artist,spotify:artist:1YPIe9qIMa99O0a0OW47Be
+2497,spotify:artist:4XwKU420OWVk38vz1KvH3M,Chris LeDoux,438316,country; country road; country rock; wyoming roots,54,artist,spotify:artist:4K3DSWzghkGUcQOEZG9gpo
+2498,spotify:artist:4XwKU420OWVk38vz1KvH3M,Darryl Worley,212229,contemporary country; country; country road; country rock; modern country rock,46,artist,spotify:artist:4zIBkSJcqRp4ADuFI94WvO
+2499,spotify:artist:4XwKU420OWVk38vz1KvH3M,BlackHawk,223941,country; country road; country rock,46,artist,spotify:artist:4mOt6H7OnuqLnQrm1Bboc6
+2640,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Montgomery Gentry,1311718,contemporary country; country; country road; modern country rock; redneck,60,artist,spotify:artist:3bGXaFVQLASmDMdjjeJr8a
+2641,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Craig Morgan,934150,contemporary country; country; country road; modern country rock,57,artist,spotify:artist:6ktyNEnEukKzskQEiXgCFD
+2642,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+2643,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+2644,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Phil Vassar,314005,contemporary country; country; country road; modern country rock,47,artist,spotify:artist:1XhhO2dTs2fKyhILj0aam6
+2645,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Jason Michael Carroll,316652,contemporary country; country; country pop; country road; modern country rock,45,artist,spotify:artist:6vgqbvuLEUcrg7SB1kRTYE
+2646,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Chris Cagle,844012,contemporary country; country; country road; modern country rock,55,artist,spotify:artist:1zhIzONVRlTfD1VQRauHMl
+2647,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Lonestar,1266616,contemporary country; country; country road,60,artist,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK
+2648,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2649,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Gary Allan,996142,contemporary country; country; country road; country rock; modern country rock,60,artist,spotify:artist:37W8SKV5Vc8lcGtdyWCA5m
+2650,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Tracy Byrd,689003,contemporary country; country; country road; country rock,58,artist,spotify:artist:0xxJO75NeIAF5jYruLYIDT
+2651,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Darryl Worley,212229,contemporary country; country; country road; country rock; modern country rock,46,artist,spotify:artist:4zIBkSJcqRp4ADuFI94WvO
+2652,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+2653,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,David Lee Murphy,285255,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:78OAtwN3XpjMcjibnF2Kw5
+2654,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+2655,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Joe Nichols,703158,arkansas country; contemporary country; country; country road; modern country rock,59,artist,spotify:artist:4aJTB79uwT4sP0Nb8QGWHc
+2656,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+2657,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+2658,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+2659,spotify:artist:79FMDwzZQxHgSkIYBl3ODU,Big & Rich,1100393,contemporary country; country; country road; modern country rock,58,artist,spotify:artist:0oBEeN6BCxEgMogzThqrPf
+2800,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+2801,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Wynonna,419805,country; country dawn; country rock,49,artist,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1
+2802,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Patty Loveless,372811,country; country dawn; country rock; kentucky roots,53,artist,spotify:artist:6SFUC6ORDCIBqPssCBpeHT
+2803,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Trisha Yearwood,1066957,contemporary country; country; country dawn; country road,60,artist,spotify:artist:3XlIhgydjvC4EniPFZT20j
+2804,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Suzy Bogguss,102391,country; country rock,43,artist,spotify:artist:13YoXxZt6SLg96dQE1vkHy
+2805,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Mindy McCready,274333,country; country dawn,41,artist,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO
+2806,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Kathy Mattea,114260,country; country rock,46,artist,spotify:artist:7ndzHjxbErIwvwnEUewMWe
+2807,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2808,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Tanya Tucker,553038,country; country dawn; country rock; outlaw country,54,artist,spotify:artist:7dmeVSH4lJqxXU7C87dKIB
+2809,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2810,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,The Judds,624291,country; country dawn; country rock,57,artist,spotify:artist:7MSTO40bsb3DOJQT6xLsIc
+2811,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Holly Dunn,99190,country; country rock,38,artist,spotify:artist:5RkW6o1M8sDx2FzeAEoNbH
+2812,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Chely Wright,123495,country; country dawn; country rock; queer country,38,artist,spotify:artist:1aSIXmBKKrEVIbGLwhedIe
+2813,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Deana Carter,449774,contemporary country; country; country dawn; country road,55,artist,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt
+2814,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Terri Clark,483173,alberta country; canadian contemporary country; canadian country; contemporary country; country; country dawn; country road,49,artist,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC
+2815,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,K.T. Oslin,118974,country; country rock,38,artist,spotify:artist:0MMNJf1JrxeSFE2pcpX50b
+2816,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+2817,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Billy Dean,113137,bluegrass gospel; country; country road; country rock,45,artist,spotify:artist:3cMyqwpNT2D8f0WuaRzzZX
+2818,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Highway 101,97044,country; country dawn; country rock,37,artist,spotify:artist:0yXAvxrEkI26bKj0o4yyou
+2819,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt,Restless Heart,209401,country; country rock,47,artist,spotify:artist:0FcmRWJUfnCuwoXE1H2b0H
+2820,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+2821,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Trisha Yearwood,1066957,contemporary country; country; country dawn; country road,60,artist,spotify:artist:3XlIhgydjvC4EniPFZT20j
+2822,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Mindy McCready,274333,country; country dawn,41,artist,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO
+2823,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Lorrie Morgan,360069,country; country dawn; country rock,47,artist,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt
+2824,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Jamie O'Neal,121834,contemporary country; country; country dawn; country road,42,artist,spotify:artist:6sQVeggRv1AhrMzuCjhCZe
+2825,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2826,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Patty Loveless,372811,country; country dawn; country rock; kentucky roots,53,artist,spotify:artist:6SFUC6ORDCIBqPssCBpeHT
+2827,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Kathy Mattea,114260,country; country rock,46,artist,spotify:artist:7ndzHjxbErIwvwnEUewMWe
+2828,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Chely Wright,123495,country; country dawn; country rock; queer country,38,artist,spotify:artist:1aSIXmBKKrEVIbGLwhedIe
+2829,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Deana Carter,449774,contemporary country; country; country dawn; country road,55,artist,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt
+2830,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Suzy Bogguss,102391,country; country rock,43,artist,spotify:artist:13YoXxZt6SLg96dQE1vkHy
+2831,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,The Judds,624291,country; country dawn; country rock,57,artist,spotify:artist:7MSTO40bsb3DOJQT6xLsIc
+2832,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Terri Clark,483173,alberta country; canadian contemporary country; canadian country; contemporary country; country; country dawn; country road,49,artist,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC
+2833,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+2834,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2835,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2836,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Bryan White,89698,country; country rock; oklahoma country,51,artist,spotify:artist:45kyLFJs5SIEqyzfVopuSc
+2837,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Reba McEntire,1743943,contemporary country; country; country dawn; oklahoma country,62,artist,spotify:artist:02rd0anEWfMtF7iMku9uor
+2838,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,SHeDAISY,321265,contemporary country; country; country dawn; country road,42,artist,spotify:artist:2qFe0FyUMK8XXoyOsfYJr2
+2839,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1,Jo Dee Messina,682194,contemporary country; country; country dawn,59,artist,spotify:artist:3ltFy7g6KKQPPttsdOMlq3
+2840,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+2841,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Lorrie Morgan,360069,country; country dawn; country rock,47,artist,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt
+2842,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Wynonna,419805,country; country dawn; country rock,49,artist,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1
+2843,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Trisha Yearwood,1066957,contemporary country; country; country dawn; country road,60,artist,spotify:artist:3XlIhgydjvC4EniPFZT20j
+2844,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Kathy Mattea,114260,country; country rock,46,artist,spotify:artist:7ndzHjxbErIwvwnEUewMWe
+2845,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Suzy Bogguss,102391,country; country rock,43,artist,spotify:artist:13YoXxZt6SLg96dQE1vkHy
+2846,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Mindy McCready,274333,country; country dawn,41,artist,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO
+2847,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Tanya Tucker,553038,country; country dawn; country rock; outlaw country,54,artist,spotify:artist:7dmeVSH4lJqxXU7C87dKIB
+2848,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Deana Carter,449774,contemporary country; country; country dawn; country road,55,artist,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt
+2849,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Lee Ann Womack,655006,contemporary country; country; country dawn,55,artist,spotify:artist:738OS3zrCO782uDiUN9pet
+2850,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Terri Clark,483173,alberta country; canadian contemporary country; canadian country; contemporary country; country; country dawn; country road,49,artist,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC
+2851,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2852,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,The Judds,624291,country; country dawn; country rock,57,artist,spotify:artist:7MSTO40bsb3DOJQT6xLsIc
+2853,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Chely Wright,123495,country; country dawn; country rock; queer country,38,artist,spotify:artist:1aSIXmBKKrEVIbGLwhedIe
+2854,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Jamie O'Neal,121834,contemporary country; country; country dawn; country road,42,artist,spotify:artist:6sQVeggRv1AhrMzuCjhCZe
+2855,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Holly Dunn,99190,country; country rock,38,artist,spotify:artist:5RkW6o1M8sDx2FzeAEoNbH
+2856,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2857,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Jo Dee Messina,682194,contemporary country; country; country dawn,59,artist,spotify:artist:3ltFy7g6KKQPPttsdOMlq3
+2858,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Reba McEntire,1743943,contemporary country; country; country dawn; oklahoma country,62,artist,spotify:artist:02rd0anEWfMtF7iMku9uor
+2859,spotify:artist:6SFUC6ORDCIBqPssCBpeHT,Martina McBride,1205753,contemporary country; country; country dawn; country road,58,artist,spotify:artist:3P33qFNGBVXl86yQYWspFj
+2860,spotify:artist:3XlIhgydjvC4EniPFZT20j,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+2861,spotify:artist:3XlIhgydjvC4EniPFZT20j,Wynonna,419805,country; country dawn; country rock,49,artist,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1
+2862,spotify:artist:3XlIhgydjvC4EniPFZT20j,Jamie O'Neal,121834,contemporary country; country; country dawn; country road,42,artist,spotify:artist:6sQVeggRv1AhrMzuCjhCZe
+2863,spotify:artist:3XlIhgydjvC4EniPFZT20j,Martina McBride,1205753,contemporary country; country; country dawn; country road,58,artist,spotify:artist:3P33qFNGBVXl86yQYWspFj
+2864,spotify:artist:3XlIhgydjvC4EniPFZT20j,Deana Carter,449774,contemporary country; country; country dawn; country road,55,artist,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt
+2865,spotify:artist:3XlIhgydjvC4EniPFZT20j,Jo Dee Messina,682194,contemporary country; country; country dawn,59,artist,spotify:artist:3ltFy7g6KKQPPttsdOMlq3
+2866,spotify:artist:3XlIhgydjvC4EniPFZT20j,Terri Clark,483173,alberta country; canadian contemporary country; canadian country; contemporary country; country; country dawn; country road,49,artist,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC
+2867,spotify:artist:3XlIhgydjvC4EniPFZT20j,Lee Ann Womack,655006,contemporary country; country; country dawn,55,artist,spotify:artist:738OS3zrCO782uDiUN9pet
+2868,spotify:artist:3XlIhgydjvC4EniPFZT20j,Faith Hill,1620593,contemporary country; country; country dawn; country road; dance pop; pop rock,63,artist,spotify:artist:25NQNriVT2YbSW80ILRWJa
+2869,spotify:artist:3XlIhgydjvC4EniPFZT20j,Lorrie Morgan,360069,country; country dawn; country rock,47,artist,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt
+2870,spotify:artist:3XlIhgydjvC4EniPFZT20j,Mindy McCready,274333,country; country dawn,41,artist,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO
+2871,spotify:artist:3XlIhgydjvC4EniPFZT20j,SHeDAISY,321265,contemporary country; country; country dawn; country road,42,artist,spotify:artist:2qFe0FyUMK8XXoyOsfYJr2
+2872,spotify:artist:3XlIhgydjvC4EniPFZT20j,Patty Loveless,372811,country; country dawn; country rock; kentucky roots,53,artist,spotify:artist:6SFUC6ORDCIBqPssCBpeHT
+2873,spotify:artist:3XlIhgydjvC4EniPFZT20j,Reba McEntire,1743943,contemporary country; country; country dawn; oklahoma country,62,artist,spotify:artist:02rd0anEWfMtF7iMku9uor
+2874,spotify:artist:3XlIhgydjvC4EniPFZT20j,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2875,spotify:artist:3XlIhgydjvC4EniPFZT20j,Sara Evans,1041358,contemporary country; country; country dawn; country gospel; country road,56,artist,spotify:artist:7qvsLYsYP0MHD7jkdv6DAG
+2876,spotify:artist:3XlIhgydjvC4EniPFZT20j,Chely Wright,123495,country; country dawn; country rock; queer country,38,artist,spotify:artist:1aSIXmBKKrEVIbGLwhedIe
+2877,spotify:artist:3XlIhgydjvC4EniPFZT20j,Kathy Mattea,114260,country; country rock,46,artist,spotify:artist:7ndzHjxbErIwvwnEUewMWe
+2878,spotify:artist:3XlIhgydjvC4EniPFZT20j,Gretchen Wilson,811283,contemporary country; country; country dawn; country road,56,artist,spotify:artist:0IdYRFTswLdsGwSnzOaGNF
+2879,spotify:artist:3XlIhgydjvC4EniPFZT20j,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2880,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+2881,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Lorrie Morgan,360069,country; country dawn; country rock,47,artist,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt
+2882,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Barbara Mandrell,217637,classic country pop; country; country gospel; country rock,45,artist,spotify:artist:67BqBdApdbZ0onglFqRoTg
+2883,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,K.T. Oslin,118974,country; country rock,38,artist,spotify:artist:0MMNJf1JrxeSFE2pcpX50b
+2884,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Ricky Van Shelton,331902,classic country pop; country; country rock,46,artist,spotify:artist:4uaaRGr9KMfYPDaUnBIngc
+2885,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Patty Loveless,372811,country; country dawn; country rock; kentucky roots,53,artist,spotify:artist:6SFUC6ORDCIBqPssCBpeHT
+2886,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,The Judds,624291,country; country dawn; country rock,57,artist,spotify:artist:7MSTO40bsb3DOJQT6xLsIc
+2887,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Highway 101,97044,country; country dawn; country rock,37,artist,spotify:artist:0yXAvxrEkI26bKj0o4yyou
+2888,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Earl Thomas Conley,226329,country; country rock,45,artist,spotify:artist:69baNgo5tsg1RjBgotRbEj
+2889,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Wynonna,419805,country; country dawn; country rock,49,artist,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1
+2890,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Kathy Mattea,114260,country; country rock,46,artist,spotify:artist:7ndzHjxbErIwvwnEUewMWe
+2891,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Steve Wariner,134037,country; country road; country rock,46,artist,spotify:artist:45S8rtgQSxj1a0tzCNhSeD
+2892,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,The Oak Ridge Boys,456682,classic country pop; country; country rock,53,artist,spotify:artist:3XnO697XIus1M0cMuxZjos
+2893,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Crystal Gayle,295547,adult standards; brill building pop; country; country rock; mellow gold; singer-songwriter; soft rock,53,artist,spotify:artist:6OheJTrDFGiyZ67F1BBLhc
+2894,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Holly Dunn,99190,country; country rock,38,artist,spotify:artist:5RkW6o1M8sDx2FzeAEoNbH
+2895,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Dan Seals,163598,classic country pop; country; country rock,50,artist,spotify:artist:55yEsJBqyn27JPsw5hHzqi
+2896,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+2897,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,Mel McDaniel,164663,country; country rock; oklahoma country,55,artist,spotify:artist:1fMdO9vLUd6wW4jbMeNiup
+2898,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,T.G. Sheppard,126084,classic country pop; country; country rock,43,artist,spotify:artist:23C7hNBr8GRdsk3VoTSZXh
+2899,spotify:artist:7dmeVSH4lJqxXU7C87dKIB,John Conlee,158531,classic country pop; country; country rock,47,artist,spotify:artist:4Wfq6fHhifS8MmQOcJ18TP
+2920,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Phil Vassar,314005,contemporary country; country; country road; modern country rock,47,artist,spotify:artist:1XhhO2dTs2fKyhILj0aam6
+2921,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+2922,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+2923,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Trace Adkins,2341921,contemporary country; country; country road,62,artist,spotify:artist:79FMDwzZQxHgSkIYBl3ODU
+2924,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Montgomery Gentry,1311718,contemporary country; country; country road; modern country rock; redneck,60,artist,spotify:artist:3bGXaFVQLASmDMdjjeJr8a
+2925,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Craig Morgan,934150,contemporary country; country; country road; modern country rock,57,artist,spotify:artist:6ktyNEnEukKzskQEiXgCFD
+2926,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+2927,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Mark Wills,298815,contemporary country; country; country road,51,artist,spotify:artist:0dlwjJe4kg9TgOMN184bJF
+2928,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+2929,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Jason Michael Carroll,316652,contemporary country; country; country pop; country road; modern country rock,45,artist,spotify:artist:6vgqbvuLEUcrg7SB1kRTYE
+2930,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Chris Cagle,844012,contemporary country; country; country road; modern country rock,55,artist,spotify:artist:1zhIzONVRlTfD1VQRauHMl
+2931,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Emerson Drive,253115,alberta country; canadian contemporary country; canadian country; contemporary country; country; country road; modern country rock,45,artist,spotify:artist:1efrXlPhLKv7PvgUxVcqIS
+2932,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Trisha Yearwood,1066957,contemporary country; country; country dawn; country road,60,artist,spotify:artist:3XlIhgydjvC4EniPFZT20j
+2933,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Brooks & Dunn,2417017,contemporary country; country; country road; country rock,70,artist,spotify:artist:0XKOBt59crntr7HQXXO8Yz
+2934,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Darryl Worley,212229,contemporary country; country; country road; country rock; modern country rock,46,artist,spotify:artist:4zIBkSJcqRp4ADuFI94WvO
+2935,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,John Michael Montgomery,880037,contemporary country; country; country road; country rock,60,artist,spotify:artist:7mPcfx7PhnBh6n4HMCd61A
+2936,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Josh Gracin,224012,contemporary country; country; country pop; country road; modern country rock,49,artist,spotify:artist:1456WwI15Lm9CktCzkLZvm
+2937,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+2938,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Terri Clark,483173,alberta country; canadian contemporary country; canadian country; contemporary country; country; country dawn; country road,49,artist,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC
+2939,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+3160,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+3161,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+3162,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+3163,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+3164,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+3165,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+3166,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+3167,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+3168,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+3169,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+3170,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Sawyer Brown,481613,country; country road; country rock,52,artist,spotify:artist:50hFWG3MaUUX5phNrrVc97
+3171,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Clint Black,858022,country; country road; country rock,58,artist,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt
+3172,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Ricky Van Shelton,331902,classic country pop; country; country rock,46,artist,spotify:artist:4uaaRGr9KMfYPDaUnBIngc
+3173,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+3174,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Tracy Byrd,689003,contemporary country; country; country road; country rock,58,artist,spotify:artist:0xxJO75NeIAF5jYruLYIDT
+3175,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Confederate Railroad,363372,country; country road; country rock; southern rock,47,artist,spotify:artist:1YPIe9qIMa99O0a0OW47Be
+3176,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,John Anderson,417285,country; country road; country rock,54,artist,spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+3177,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Randy Travis,1443156,country; country gospel; country road; country rock,64,artist,spotify:artist:1pTuR132U5b4Rizal2Pr7m
+3178,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+3179,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS,Doug Stone,176396,country; country road; country rock,45,artist,spotify:artist:4epBFW4UHEmgjIK5xOrBhk
+3660,spotify:artist:67BqBdApdbZ0onglFqRoTg,The Kendalls,70750,classic country pop; country rock,36,artist,spotify:artist:1rFQlnVFNwI3H6QLDL7LFN
+3661,spotify:artist:67BqBdApdbZ0onglFqRoTg,Janie Fricke,61485,classic country pop,38,artist,spotify:artist:3FhuHzOES6VGS9WW1wDymV
+3662,spotify:artist:67BqBdApdbZ0onglFqRoTg,Tanya Tucker,553038,country; country dawn; country rock; outlaw country,54,artist,spotify:artist:7dmeVSH4lJqxXU7C87dKIB
+3663,spotify:artist:67BqBdApdbZ0onglFqRoTg,K.T. Oslin,118974,country; country rock,38,artist,spotify:artist:0MMNJf1JrxeSFE2pcpX50b
+3664,spotify:artist:67BqBdApdbZ0onglFqRoTg,Holly Dunn,99190,country; country rock,38,artist,spotify:artist:5RkW6o1M8sDx2FzeAEoNbH
+3665,spotify:artist:67BqBdApdbZ0onglFqRoTg,Crystal Gayle,295547,adult standards; brill building pop; country; country rock; mellow gold; singer-songwriter; soft rock,53,artist,spotify:artist:6OheJTrDFGiyZ67F1BBLhc
+3666,spotify:artist:67BqBdApdbZ0onglFqRoTg,T.G. Sheppard,126084,classic country pop; country; country rock,43,artist,spotify:artist:23C7hNBr8GRdsk3VoTSZXh
+3667,spotify:artist:67BqBdApdbZ0onglFqRoTg,Lacy J. Dalton,34358,classic country pop; country,38,artist,spotify:artist:3JTFILRsbbqmkb740jjT0l
+3668,spotify:artist:67BqBdApdbZ0onglFqRoTg,Dottie West,71174,classic country pop; nashville sound,39,artist,spotify:artist:2pvPkEAN9xSrDrIVUOxWMB
+3669,spotify:artist:67BqBdApdbZ0onglFqRoTg,Connie Smith,72779,classic country pop; nashville sound,40,artist,spotify:artist:66Pq6HMX0YqsJgtUZrFwmo
+3670,spotify:artist:67BqBdApdbZ0onglFqRoTg,Donna Fargo,66037,classic country pop,35,artist,spotify:artist:4tIQ6BeFRvYApoAyJmaeVC
+3671,spotify:artist:67BqBdApdbZ0onglFqRoTg,Highway 101,97044,country; country dawn; country rock,37,artist,spotify:artist:0yXAvxrEkI26bKj0o4yyou
+3672,spotify:artist:67BqBdApdbZ0onglFqRoTg,Eddy Raven,69388,classic country pop; country; country rock,42,artist,spotify:artist:23YxuG76RQvo4r7jChCwxK
+3673,spotify:artist:67BqBdApdbZ0onglFqRoTg,T. Graham Brown,73401,classic country pop; country; country rock,47,artist,spotify:artist:0UMJlMGr85C0C5D7wmB0Ik
+3674,spotify:artist:67BqBdApdbZ0onglFqRoTg,Ronnie McDowell,45604,classic country pop; country; country rock,34,artist,spotify:artist:0ZZOIWyRv8tdx0kLPlTtMg
+3675,spotify:artist:67BqBdApdbZ0onglFqRoTg,The Forester Sisters,49448,country rock,34,artist,spotify:artist:27Zy5YAD3Atf56oSRfrfis
+3676,spotify:artist:67BqBdApdbZ0onglFqRoTg,Charly McClain,34624,classic country pop,30,artist,spotify:artist:7vay9JhHThC1PXnge5IPTW
+3677,spotify:artist:67BqBdApdbZ0onglFqRoTg,Ricky Van Shelton,331902,classic country pop; country; country rock,46,artist,spotify:artist:4uaaRGr9KMfYPDaUnBIngc
+3678,spotify:artist:67BqBdApdbZ0onglFqRoTg,Johnny Lee,127687,classic country pop; country; country rock,46,artist,spotify:artist:45rAZqRt5nUUMatQzk8qJu
+3679,spotify:artist:67BqBdApdbZ0onglFqRoTg,Mickey Gilley,166669,classic country pop; country; country rock; nashville sound,44,artist,spotify:artist:5kFY4Bv5VRSBsM6CUYBoTC
+3840,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Tom T. Hall,220162,classic country pop; country; country rock; outlaw country,53,artist,spotify:artist:1SvG3y1gYAFOsv9785Xu9T
+3841,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Don Gibson,87859,nashville sound; rock-and-roll; rockabilly,45,artist,spotify:artist:4xcYVPssil6vbG6tq3W43S
+3842,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Ferlin Husky,64027,nashville sound,43,artist,spotify:artist:0szj7Sxtyluyjc2Arj0njB
+3843,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Hank Locklin,70040,nashville sound,42,artist,spotify:artist:46Unp6DY3Zmy7QS1Fx47yq
+3844,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Sonny James,42717,nashville sound,42,artist,spotify:artist:0c08N8UlFjDaup9TNDaWxy
+3845,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Cal Smith,39570,classic country pop; oklahoma country,37,artist,spotify:artist:3yFnqoyp1e54tZEY4ykvNB
+3846,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Bill Anderson,66093,nashville sound,37,artist,spotify:artist:0gWNSMYCSHF4wxIs1XTSDh
+3847,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Mel Tillis,101265,outlaw country,35,artist,spotify:artist:5DWq2OARZMu64IqyWZ2xpb
+3848,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Bobby Bare,153604,classic country pop; country; country rock; outlaw country,51,artist,spotify:artist:69wzuykaVXlRS5KVygESvd
+3849,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Connie Smith,72779,classic country pop; nashville sound,40,artist,spotify:artist:66Pq6HMX0YqsJgtUZrFwmo
+3850,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Kitty Wells,108863,classic country pop; nashville sound; traditional country,44,artist,spotify:artist:4fxdqujwhb2NIQyr7qnnPX
+3851,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Charlie Rich,185685,arkansas country; country; country rock; nashville sound; rock-and-roll; rockabilly,51,artist,spotify:artist:218kRJZ7FJs0hWIk8Ynzhz
+3852,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Faron Young,85764,classic country pop; honky tonk; traditional country,45,artist,spotify:artist:6uvq6FeVsmhOWfJHxVNeBL
+3853,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,The Kendalls,70750,classic country pop; country rock,36,artist,spotify:artist:1rFQlnVFNwI3H6QLDL7LFN
+3854,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Tammy Wynette,506323,country; country dawn; country rock; nashville sound,54,artist,spotify:artist:1LFKKuzn302wp15dYH28id
+3855,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Jack Greene,25520,classic country pop,29,artist,spotify:artist:14h0UcPJlGYv5Qrjp7m1jQ
+3856,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Mickey Gilley,166669,classic country pop; country; country rock; nashville sound,44,artist,spotify:artist:5kFY4Bv5VRSBsM6CUYBoTC
+3857,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Dottie West,71174,classic country pop; nashville sound,39,artist,spotify:artist:2pvPkEAN9xSrDrIVUOxWMB
+3858,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Vern Gosdin,144626,bakersfield sound; country; country rock,47,artist,spotify:artist:4kNRotUiNCcfZhnpJJTDtl
+3859,spotify:artist:69Fk1s1lzINOKqoSWjjEiE,Johnny Rodriguez,45962,classic country pop; outlaw country,40,artist,spotify:artist:5hYruMimtF8axJGLsFpfoU
+3900,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Trace Adkins,2341921,contemporary country; country; country road,62,artist,spotify:artist:79FMDwzZQxHgSkIYBl3ODU
+3901,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Craig Morgan,934150,contemporary country; country; country road; modern country rock,57,artist,spotify:artist:6ktyNEnEukKzskQEiXgCFD
+3902,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Phil Vassar,314005,contemporary country; country; country road; modern country rock,47,artist,spotify:artist:1XhhO2dTs2fKyhILj0aam6
+3903,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Chris Cagle,844012,contemporary country; country; country road; modern country rock,55,artist,spotify:artist:1zhIzONVRlTfD1VQRauHMl
+3904,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Jason Michael Carroll,316652,contemporary country; country; country pop; country road; modern country rock,45,artist,spotify:artist:6vgqbvuLEUcrg7SB1kRTYE
+3905,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+3906,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+3907,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Gary Allan,996142,contemporary country; country; country road; country rock; modern country rock,60,artist,spotify:artist:37W8SKV5Vc8lcGtdyWCA5m
+3908,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Lonestar,1266616,contemporary country; country; country road,60,artist,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK
+3909,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Big & Rich,1100393,contemporary country; country; country road; modern country rock,58,artist,spotify:artist:0oBEeN6BCxEgMogzThqrPf
+3910,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Joe Nichols,703158,arkansas country; contemporary country; country; country road; modern country rock,59,artist,spotify:artist:4aJTB79uwT4sP0Nb8QGWHc
+3911,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Darryl Worley,212229,contemporary country; country; country road; country rock; modern country rock,46,artist,spotify:artist:4zIBkSJcqRp4ADuFI94WvO
+3912,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Keith Anderson,355421,contemporary country; country; country road; modern country rock; oklahoma country,48,artist,spotify:artist:4AgQTHagFdBq8VL791lSXz
+3913,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Trent Tomlinson,200179,contemporary country; country; country pop; country road; modern country rock; redneck,46,artist,spotify:artist:1Zn69emN3uZsF6YwCrkgYp
+3914,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Emerson Drive,253115,alberta country; canadian contemporary country; canadian country; contemporary country; country; country road; modern country rock,45,artist,spotify:artist:1efrXlPhLKv7PvgUxVcqIS
+3915,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,David Lee Murphy,285255,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:78OAtwN3XpjMcjibnF2Kw5
+3916,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+3917,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Josh Gracin,224012,contemporary country; country; country pop; country road; modern country rock,49,artist,spotify:artist:1456WwI15Lm9CktCzkLZvm
+3918,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Tracy Byrd,689003,contemporary country; country; country road; country rock,58,artist,spotify:artist:0xxJO75NeIAF5jYruLYIDT
+3919,spotify:artist:3bGXaFVQLASmDMdjjeJr8a,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+3920,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+3921,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+3922,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+3923,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+3924,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+3925,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+3926,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+3927,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+3928,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+3929,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Sawyer Brown,481613,country; country road; country rock,52,artist,spotify:artist:50hFWG3MaUUX5phNrrVc97
+3930,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+3931,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Tracy Byrd,689003,contemporary country; country; country road; country rock,58,artist,spotify:artist:0xxJO75NeIAF5jYruLYIDT
+3932,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Clint Black,858022,country; country road; country rock,58,artist,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt
+3933,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+3934,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Phil Vassar,314005,contemporary country; country; country road; modern country rock,47,artist,spotify:artist:1XhhO2dTs2fKyhILj0aam6
+3935,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Lonestar,1266616,contemporary country; country; country road,60,artist,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK
+3936,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,John Michael Montgomery,880037,contemporary country; country; country road; country rock,60,artist,spotify:artist:7mPcfx7PhnBh6n4HMCd61A
+3937,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+3938,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,Mark Wills,298815,contemporary country; country; country road,51,artist,spotify:artist:0dlwjJe4kg9TgOMN184bJF
+3939,spotify:artist:0svyIX7Xu3DVMkrOtB88i6,David Lee Murphy,285255,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:78OAtwN3XpjMcjibnF2Kw5
+3940,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+3941,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Clay Walker,1074885,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:4MPkNgar5uTd8Sqvrr7par
+3942,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+3943,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+3944,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+3945,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+3946,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+3947,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+3948,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+3949,spotify:artist:0xxJO75NeIAF5jYruLYIDT,David Lee Murphy,285255,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:78OAtwN3XpjMcjibnF2Kw5
+3950,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+3951,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Trace Adkins,2341921,contemporary country; country; country road,62,artist,spotify:artist:79FMDwzZQxHgSkIYBl3ODU
+3952,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+3953,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Phil Vassar,314005,contemporary country; country; country road; modern country rock,47,artist,spotify:artist:1XhhO2dTs2fKyhILj0aam6
+3954,spotify:artist:0xxJO75NeIAF5jYruLYIDT,John Michael Montgomery,880037,contemporary country; country; country road; country rock,60,artist,spotify:artist:7mPcfx7PhnBh6n4HMCd61A
+3955,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Daryle Singletary,204628,country; country road; country rock,45,artist,spotify:artist:1mQ9wgWshECdFsDbT7ATzT
+3956,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Darryl Worley,212229,contemporary country; country; country road; country rock; modern country rock,46,artist,spotify:artist:4zIBkSJcqRp4ADuFI94WvO
+3957,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Montgomery Gentry,1311718,contemporary country; country; country road; modern country rock; redneck,60,artist,spotify:artist:3bGXaFVQLASmDMdjjeJr8a
+3958,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Sawyer Brown,481613,country; country road; country rock,52,artist,spotify:artist:50hFWG3MaUUX5phNrrVc97
+3959,spotify:artist:0xxJO75NeIAF5jYruLYIDT,Clint Black,858022,country; country road; country rock,58,artist,spotify:artist:3Ay15wt0QChT4Kapsuw5Jt
+3960,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Tracy Lawrence,914204,arkansas country; contemporary country; country; country road; country rock,59,artist,spotify:artist:2BQVRw9md4UKcGUrDXABCD
+3961,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Mark Chesnutt,655999,country; country road; country rock,56,artist,spotify:artist:2cNV8vNe2fPFf6OfGOBbSS
+3962,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Sammy Kershaw,538843,country; country road; country rock,55,artist,spotify:artist:3tkZthBATD0S45hm1DmB2O
+3963,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+3964,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+3965,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Phil Vassar,314005,contemporary country; country; country road; modern country rock,47,artist,spotify:artist:1XhhO2dTs2fKyhILj0aam6
+3966,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Joe Diffie,681398,contemporary country; country; country road; country rock; oklahoma country,58,artist,spotify:artist:3THMgU4KdL7LlO5TEREs2g
+3967,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+3968,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Trace Adkins,2341921,contemporary country; country; country road,62,artist,spotify:artist:79FMDwzZQxHgSkIYBl3ODU
+3969,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Jason Michael Carroll,316652,contemporary country; country; country pop; country road; modern country rock,45,artist,spotify:artist:6vgqbvuLEUcrg7SB1kRTYE
+3970,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Tracy Byrd,689003,contemporary country; country; country road; country rock,58,artist,spotify:artist:0xxJO75NeIAF5jYruLYIDT
+3971,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Mark Wills,298815,contemporary country; country; country road,51,artist,spotify:artist:0dlwjJe4kg9TgOMN184bJF
+3972,spotify:artist:4MPkNgar5uTd8Sqvrr7par,David Lee Murphy,285255,contemporary country; country; country road; country rock; modern country rock,58,artist,spotify:artist:78OAtwN3XpjMcjibnF2Kw5
+3973,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Lonestar,1266616,contemporary country; country; country road,60,artist,spotify:artist:3qbnxnvUqR14MJ9g8QwZJK
+3974,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Gary Allan,996142,contemporary country; country; country road; country rock; modern country rock,60,artist,spotify:artist:37W8SKV5Vc8lcGtdyWCA5m
+3975,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Aaron Tippin,533667,country; country road; country rock; redneck,51,artist,spotify:artist:4XwKU420OWVk38vz1KvH3M
+3976,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Neal McCoy,390546,contemporary country; country; country road; country rock,49,artist,spotify:artist:69Etpls5a2aATUkB6NInTY
+3977,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Montgomery Gentry,1311718,contemporary country; country; country road; modern country rock; redneck,60,artist,spotify:artist:3bGXaFVQLASmDMdjjeJr8a
+3978,spotify:artist:4MPkNgar5uTd8Sqvrr7par,Darryl Worley,212229,contemporary country; country; country road; country rock; modern country rock,46,artist,spotify:artist:4zIBkSJcqRp4ADuFI94WvO
+3979,spotify:artist:4MPkNgar5uTd8Sqvrr7par,John Michael Montgomery,880037,contemporary country; country; country road; country rock,60,artist,spotify:artist:7mPcfx7PhnBh6n4HMCd61A
+4000,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Trisha Yearwood,1066957,contemporary country; country; country dawn; country road,60,artist,spotify:artist:3XlIhgydjvC4EniPFZT20j
+4001,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Jamie O'Neal,121834,contemporary country; country; country dawn; country road,42,artist,spotify:artist:6sQVeggRv1AhrMzuCjhCZe
+4002,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+4003,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Jo Dee Messina,682194,contemporary country; country; country dawn,59,artist,spotify:artist:3ltFy7g6KKQPPttsdOMlq3
+4004,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Lee Ann Womack,655006,contemporary country; country; country dawn,55,artist,spotify:artist:738OS3zrCO782uDiUN9pet
+4005,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Wynonna,419805,country; country dawn; country rock,49,artist,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1
+4006,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Chely Wright,123495,country; country dawn; country rock; queer country,38,artist,spotify:artist:1aSIXmBKKrEVIbGLwhedIe
+4007,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Terri Clark,483173,alberta country; canadian contemporary country; canadian country; contemporary country; country; country dawn; country road,49,artist,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC
+4008,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,SHeDAISY,321265,contemporary country; country; country dawn; country road,42,artist,spotify:artist:2qFe0FyUMK8XXoyOsfYJr2
+4009,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Mindy McCready,274333,country; country dawn,41,artist,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO
+4010,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Martina McBride,1205753,contemporary country; country; country dawn; country road,58,artist,spotify:artist:3P33qFNGBVXl86yQYWspFj
+4011,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Lorrie Morgan,360069,country; country dawn; country rock,47,artist,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt
+4012,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+4013,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Faith Hill,1620593,contemporary country; country; country dawn; country road; dance pop; pop rock,63,artist,spotify:artist:25NQNriVT2YbSW80ILRWJa
+4014,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Jessica Andrews,75959,country; country dawn,43,artist,spotify:artist:5rNhVm2CnqiO5Lv4Dt2lck
+4015,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Patty Loveless,372811,country; country dawn; country rock; kentucky roots,53,artist,spotify:artist:6SFUC6ORDCIBqPssCBpeHT
+4016,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Sara Evans,1041358,contemporary country; country; country dawn; country gospel; country road,56,artist,spotify:artist:7qvsLYsYP0MHD7jkdv6DAG
+4017,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Lila McCann,90898,country; country dawn,29,artist,spotify:artist:7F7zi7OcJYBOmSFZIYYFCR
+4018,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Trick Pony,170510,contemporary country; country; country dawn; country road,37,artist,spotify:artist:1Tdrtr2WwDDde01GJllidM
+4019,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt,Julie Roberts,138352,contemporary country; country; country dawn; country road,44,artist,spotify:artist:5sXhYkm9PpLn5R70U2T6Ba
+4020,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Trisha Yearwood,1066957,contemporary country; country; country dawn; country road,60,artist,spotify:artist:3XlIhgydjvC4EniPFZT20j
+4021,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Jamie O'Neal,121834,contemporary country; country; country dawn; country road,42,artist,spotify:artist:6sQVeggRv1AhrMzuCjhCZe
+4022,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+4023,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Deana Carter,449774,contemporary country; country; country dawn; country road,55,artist,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt
+4024,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+4025,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,SHeDAISY,321265,contemporary country; country; country dawn; country road,42,artist,spotify:artist:2qFe0FyUMK8XXoyOsfYJr2
+4026,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Wynonna,419805,country; country dawn; country rock,49,artist,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1
+4027,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Mindy McCready,274333,country; country dawn,41,artist,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO
+4028,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Jo Dee Messina,682194,contemporary country; country; country dawn,59,artist,spotify:artist:3ltFy7g6KKQPPttsdOMlq3
+4029,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Chely Wright,123495,country; country dawn; country rock; queer country,38,artist,spotify:artist:1aSIXmBKKrEVIbGLwhedIe
+4030,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Trick Pony,170510,contemporary country; country; country dawn; country road,37,artist,spotify:artist:1Tdrtr2WwDDde01GJllidM
+4031,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Martina McBride,1205753,contemporary country; country; country dawn; country road,58,artist,spotify:artist:3P33qFNGBVXl86yQYWspFj
+4032,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Lee Ann Womack,655006,contemporary country; country; country dawn,55,artist,spotify:artist:738OS3zrCO782uDiUN9pet
+4033,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Lorrie Morgan,360069,country; country dawn; country rock,47,artist,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt
+4034,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Sara Evans,1041358,contemporary country; country; country dawn; country gospel; country road,56,artist,spotify:artist:7qvsLYsYP0MHD7jkdv6DAG
+4035,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Diamond Rio,825334,contemporary country; country; country road; country rock,56,artist,spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+4036,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Gretchen Wilson,811283,contemporary country; country; country dawn; country road,56,artist,spotify:artist:0IdYRFTswLdsGwSnzOaGNF
+4037,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+4038,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Faith Hill,1620593,contemporary country; country; country dawn; country road; dance pop; pop rock,63,artist,spotify:artist:25NQNriVT2YbSW80ILRWJa
+4039,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC,Mark Wills,298815,contemporary country; country; country road,51,artist,spotify:artist:0dlwjJe4kg9TgOMN184bJF
+4040,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Trisha Yearwood,1066957,contemporary country; country; country dawn; country road,60,artist,spotify:artist:3XlIhgydjvC4EniPFZT20j
+4041,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Lorrie Morgan,360069,country; country dawn; country rock,47,artist,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt
+4042,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Wynonna,419805,country; country dawn; country rock,49,artist,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1
+4043,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Collin Raye,421671,arkansas country; country; country road; country rock,52,artist,spotify:artist:4AwLiAGc1rRLrCepj5rdTI
+4044,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Patty Loveless,372811,country; country dawn; country rock; kentucky roots,53,artist,spotify:artist:6SFUC6ORDCIBqPssCBpeHT
+4045,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Mindy McCready,274333,country; country dawn,41,artist,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO
+4046,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Suzy Bogguss,102391,country; country rock,43,artist,spotify:artist:13YoXxZt6SLg96dQE1vkHy
+4047,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Kathy Mattea,114260,country; country rock,46,artist,spotify:artist:7ndzHjxbErIwvwnEUewMWe
+4048,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Jamie O'Neal,121834,contemporary country; country; country dawn; country road,42,artist,spotify:artist:6sQVeggRv1AhrMzuCjhCZe
+4049,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Deana Carter,449774,contemporary country; country; country dawn; country road,55,artist,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt
+4050,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Terri Clark,483173,alberta country; canadian contemporary country; canadian country; contemporary country; country; country dawn; country road,49,artist,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC
+4051,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Chely Wright,123495,country; country dawn; country rock; queer country,38,artist,spotify:artist:1aSIXmBKKrEVIbGLwhedIe
+4052,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Shenandoah,390582,country; country road; country rock,55,artist,spotify:artist:36eTeLNx8ErucrEyRm6JOo
+4053,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Little Texas,431774,country; country road; country rock,45,artist,spotify:artist:5CCf77sKGlTdfIiIDaVScj
+4054,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Lee Ann Womack,655006,contemporary country; country; country dawn,55,artist,spotify:artist:738OS3zrCO782uDiUN9pet
+4055,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Lila McCann,90898,country; country dawn,29,artist,spotify:artist:7F7zi7OcJYBOmSFZIYYFCR
+4056,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,The Judds,624291,country; country dawn; country rock,57,artist,spotify:artist:7MSTO40bsb3DOJQT6xLsIc
+4057,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Holly Dunn,99190,country; country rock,38,artist,spotify:artist:5RkW6o1M8sDx2FzeAEoNbH
+4058,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Jo Dee Messina,682194,contemporary country; country; country dawn,59,artist,spotify:artist:3ltFy7g6KKQPPttsdOMlq3
+4059,spotify:artist:1SX44N5qjWuFcCK8WTO0c6,Tanya Tucker,553038,country; country dawn; country rock; outlaw country,54,artist,spotify:artist:7dmeVSH4lJqxXU7C87dKIB
+4060,spotify:artist:3P33qFNGBVXl86yQYWspFj,Trisha Yearwood,1066957,contemporary country; country; country dawn; country road,60,artist,spotify:artist:3XlIhgydjvC4EniPFZT20j
+4061,spotify:artist:3P33qFNGBVXl86yQYWspFj,Lee Ann Womack,655006,contemporary country; country; country dawn,55,artist,spotify:artist:738OS3zrCO782uDiUN9pet
+4062,spotify:artist:3P33qFNGBVXl86yQYWspFj,Jamie O'Neal,121834,contemporary country; country; country dawn; country road,42,artist,spotify:artist:6sQVeggRv1AhrMzuCjhCZe
+4063,spotify:artist:3P33qFNGBVXl86yQYWspFj,Jo Dee Messina,682194,contemporary country; country; country dawn,59,artist,spotify:artist:3ltFy7g6KKQPPttsdOMlq3
+4064,spotify:artist:3P33qFNGBVXl86yQYWspFj,Sara Evans,1041358,contemporary country; country; country dawn; country gospel; country road,56,artist,spotify:artist:7qvsLYsYP0MHD7jkdv6DAG
+4065,spotify:artist:3P33qFNGBVXl86yQYWspFj,Pam Tillis,352024,contemporary country; country; country dawn; country road; country rock,52,artist,spotify:artist:1SX44N5qjWuFcCK8WTO0c6
+4066,spotify:artist:3P33qFNGBVXl86yQYWspFj,Faith Hill,1620593,contemporary country; country; country dawn; country road; dance pop; pop rock,63,artist,spotify:artist:25NQNriVT2YbSW80ILRWJa
+4067,spotify:artist:3P33qFNGBVXl86yQYWspFj,SHeDAISY,321265,contemporary country; country; country dawn; country road,42,artist,spotify:artist:2qFe0FyUMK8XXoyOsfYJr2
+4068,spotify:artist:3P33qFNGBVXl86yQYWspFj,Deana Carter,449774,contemporary country; country; country dawn; country road,55,artist,spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt
+4069,spotify:artist:3P33qFNGBVXl86yQYWspFj,Wynonna,419805,country; country dawn; country rock,49,artist,spotify:artist:4yiXkMbxDIZ3jgEG89NSC1
+4070,spotify:artist:3P33qFNGBVXl86yQYWspFj,Terri Clark,483173,alberta country; canadian contemporary country; canadian country; contemporary country; country; country dawn; country road,49,artist,spotify:artist:0HLOP0AdsaWe5Pt5TNueGC
+4071,spotify:artist:3P33qFNGBVXl86yQYWspFj,Gretchen Wilson,811283,contemporary country; country; country dawn; country road,56,artist,spotify:artist:0IdYRFTswLdsGwSnzOaGNF
+4072,spotify:artist:3P33qFNGBVXl86yQYWspFj,Mindy McCready,274333,country; country dawn,41,artist,spotify:artist:2uB5sjjJwj4kB6TrRGLYJO
+4073,spotify:artist:3P33qFNGBVXl86yQYWspFj,LeAnn Rimes,1176875,country; country dawn; dance pop,62,artist,spotify:artist:2d3VHzlOEwXvmBdS4pzOPL
+4074,spotify:artist:3P33qFNGBVXl86yQYWspFj,Reba McEntire,1743943,contemporary country; country; country dawn; oklahoma country,62,artist,spotify:artist:02rd0anEWfMtF7iMku9uor
+4075,spotify:artist:3P33qFNGBVXl86yQYWspFj,Jessica Andrews,75959,country; country dawn,43,artist,spotify:artist:5rNhVm2CnqiO5Lv4Dt2lck
+4076,spotify:artist:3P33qFNGBVXl86yQYWspFj,Chely Wright,123495,country; country dawn; country rock; queer country,38,artist,spotify:artist:1aSIXmBKKrEVIbGLwhedIe
+4077,spotify:artist:3P33qFNGBVXl86yQYWspFj,Kellie Pickler,830513,contemporary country; country; country dawn; country road,45,artist,spotify:artist:021hNAnkFIbyFyL97br6NB
+4078,spotify:artist:3P33qFNGBVXl86yQYWspFj,Lorrie Morgan,360069,country; country dawn; country rock,47,artist,spotify:artist:0khzcQ6PQU5a6dl1Qss3pt
+4079,spotify:artist:3P33qFNGBVXl86yQYWspFj,Patty Loveless,372811,country; country dawn; country rock; kentucky roots,53,artist,spotify:artist:6SFUC6ORDCIBqPssCBpeHT
